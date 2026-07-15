@@ -1,0 +1,933 @@
+﻿#EXTM3U url-tvg="https://iptv-epg.org/files/epg-it.xml"
+#EXTINF:-1 tvg-id="bikesmartmobility.it" tvg-name="BIKE SMART MOBILITY" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/BIKE%20SMART%20MOBILITY.png" group-title="Italy - Sport",BIKE SMART MOBILITY
+http://worldtv.homeassistants.app/?v=53337
+#EXTINF:-1 tvg-id="eurosport1.it" tvg-name="EUROSPORT 1" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/EUROSPORT%201.png" group-title="Italy - Sport",EUROSPORT 1
+http://worldtv.homeassistants.app/?v=53394
+#EXTINF:-1 tvg-id="eurosport2.it" tvg-name="EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/EUROSPORT%202.png" group-title="Italy - Sport",EUROSPORT 2
+http://worldtv.homeassistants.app/?v=53396
+#EXTINF:-1 tvg-id="horsetv.it" tvg-name="HORSE TV" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/HORSE%20TV.png" group-title="Italy - Sport",HORSE TV
+http://worldtv.homeassistants.app/?v=53410
+#EXTINF:-1 tvg-id="raisport.it" tvg-name="RAI SPORT+" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/RAI%20SPORT%2B.png" group-title="Italy - Sport",RAI SPORT+
+http://worldtv.homeassistants.app/?v=53588
+#EXTINF:-1 tvg-id="skysport24.it" tvg-name="SKY SPORT 24" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20SPORT%2024.png" group-title="Italy - Sport",SKY SPORT 24
+http://worldtv.homeassistants.app/?v=53668
+#EXTINF:-1 tvg-id="skysportarena.it" tvg-name="SKY SPORT ARENA" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20SPORT%20ARENA.png" group-title="Italy - Sport",SKY SPORT ARENA
+http://worldtv.homeassistants.app/?v=53670
+#EXTINF:-1 tvg-id="skysportf1.it" tvg-name="SKY SPORT F1" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20SPORT%20F1.png" group-title="Italy - Sport",SKY SPORT F1
+http://worldtv.homeassistants.app/?v=53679
+#EXTINF:-1 tvg-id="skysportgolf.it" tvg-name="SKY SPORT GOLF" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20SPORT%20GOLF.png" group-title="Italy - Sport",SKY SPORT GOLF
+http://worldtv.homeassistants.app/?v=53683
+#EXTINF:-1 tvg-id="skysportmax.it" tvg-name="SKY SPORT MAX" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20SPORT%20MAX.png" group-title="Italy - Sport",SKY SPORT MAX
+http://worldtv.homeassistants.app/?v=53681
+#EXTINF:-1 tvg-id="skysportmotogp.it" tvg-name="SKY SPORT MOTO GP" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20SPORT%20MOTO%20GP.png" group-title="Italy - Sport",SKY SPORT MOTO GP
+http://worldtv.homeassistants.app/?v=53685
+#EXTINF:-1 tvg-id="skysportnba.it" tvg-name="SKY SPORT NBA" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20SPORT%20NBA.png" group-title="Italy - Sport",SKY SPORT NBA
+http://worldtv.homeassistants.app/?v=53687
+#EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="SKY SPORT TENNIS" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20SPORT%20TENNIS.png" group-title="Italy - Sport",SKY SPORT TENNIS
+http://worldtv.homeassistants.app/?v=53689
+#EXTINF:-1 tvg-id="skysportuno.it" tvg-name="SKY SPORT UNO" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20SPORT%20UNO.png" group-title="Italy - Sport",SKY SPORT UNO
+http://worldtv.homeassistants.app/?v=53691
+#EXTINF:-1 tvg-id="sportitalia.it" tvg-name="SPORT ITALIA" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SPORT%20ITALIA.png" group-title="Italy - Sport",SPORT ITALIA
+http://worldtv.homeassistants.app/?v=53698
+#EXTINF:-1 tvg-id="supertennis.it" tvg-name="SUPERTENNIS" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SUPERTENNIS.png" group-title="Italy - Sport",SUPERTENNIS
+http://worldtv.homeassistants.app/?v=53700
+#EXTINF:-1 tvg-id="skysport251.it" tvg-name="SKY SPORT 251" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20SPORT%20251.png" group-title="Italy - Sport",SKY SPORT 251
+http://worldtv.homeassistants.app/?v=53605
+#EXTINF:-1 tvg-id="skysport252.it" tvg-name="SKY SPORT 252" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20SPORT%20252.png" group-title="Italy - Sport",SKY SPORT 252
+http://worldtv.homeassistants.app/?v=53607
+#EXTINF:-1 tvg-id="skysport253.it" tvg-name="SKY SPORT 253" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20SPORT%20253.png" group-title="Italy - Sport",SKY SPORT 253
+http://worldtv.homeassistants.app/?v=53609
+#EXTINF:-1 tvg-id="skysport254.it" tvg-name="SKY SPORT 254" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20SPORT%20254.png" group-title="Italy - Sport",SKY SPORT 254
+http://worldtv.homeassistants.app/?v=53611
+#EXTINF:-1 tvg-id="skysport255.it" tvg-name="SKY SPORT 255" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20SPORT%20255.png" group-title="Italy - Sport",SKY SPORT 255
+http://worldtv.homeassistants.app/?v=53613
+#EXTINF:-1 tvg-id="skysport256.it" tvg-name="SKY SPORT 256" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20SPORT%20256.png" group-title="Italy - Sport",SKY SPORT 256
+http://worldtv.homeassistants.app/?v=53615
+#EXTINF:-1 tvg-id="skysport257.it" tvg-name="SKY SPORT 257" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20SPORT%20257.png" group-title="Italy - Sport",SKY SPORT 257
+http://worldtv.homeassistants.app/?v=53617
+#EXTINF:-1 tvg-id="skysport258.it" tvg-name="SKY SPORT 258" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20SPORT%20258.png" group-title="Italy - Sport",SKY SPORT 258
+http://worldtv.homeassistants.app/?v=53618
+#EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="SKY SPORT CALCIO" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20SPORT%20CALCIO.png" group-title="Italy - Sport",SKY SPORT CALCIO
+http://worldtv.homeassistants.app/?v=53677
+#EXTINF:-1 tvg-id="canale5.it" tvg-name="CANALE 5" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/CANALE%205.png" group-title="Italy - TOP",CANALE 5
+http://worldtv.homeassistants.app/?v=53349
+#EXTINF:-1 tvg-id="cielo.it" tvg-name="CIELO" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/CIELO.png" group-title="Italy - TOP",CIELO
+http://worldtv.homeassistants.app/?v=53354
+#EXTINF:-1 tvg-id="italia1.it" tvg-name="ITALIA 1" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/ITALIA%201.png" group-title="Italy - TOP",ITALIA 1
+http://worldtv.homeassistants.app/?v=53414
+#EXTINF:-1 tvg-id="la7.it" tvg-name="LA7" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/LA7.png" group-title="Italy - TOP",LA7
+http://worldtv.homeassistants.app/?v=53424
+#EXTINF:-1 tvg-id="nove.it" tvg-name="NOVE" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/NOVE.png" group-title="Italy - TOP",NOVE
+http://worldtv.homeassistants.app/?v=53559
+#EXTINF:-1 tvg-id="rai1.it" tvg-name="RAI 1" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/RAI%201.png" group-title="Italy - TOP",RAI 1
+http://worldtv.homeassistants.app/?v=53572
+#EXTINF:-1 tvg-id="rai2.it" tvg-name="RAI 2" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/RAI%202.png" group-title="Italy - TOP",RAI 2
+http://worldtv.homeassistants.app/?v=53574
+#EXTINF:-1 tvg-id="rai3.it" tvg-name="RAI 3" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/RAI%203.png" group-title="Italy - TOP",RAI 3
+http://worldtv.homeassistants.app/?v=53576
+#EXTINF:-1 tvg-id="rete4.it" tvg-name="RETE 4" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/RETE%204.png" group-title="Italy - TOP",RETE 4
+http://worldtv.homeassistants.app/?v=53594
+#EXTINF:-1 tvg-id="rsila1.it" tvg-name="RSI LA 1" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/RSI%20LA%201.png" group-title="Italy - TOP",RSI LA 1
+http://worldtv.homeassistants.app/?v=53597
+#EXTINF:-1 tvg-id="rsila2.it" tvg-name="RSI LA 2" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/RSI%20LA%202.png" group-title="Italy - TOP",RSI LA 2
+http://worldtv.homeassistants.app/?v=53598
+#EXTINF:-1 tvg-id="tv2000.it" tvg-name="TV 2000" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/TV%202000.png" group-title="Italy - TOP",TV 2000
+http://worldtv.homeassistants.app/?v=53707
+#EXTINF:-1 tvg-id="tv8.it" tvg-name="TV8" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/TV8.png" group-title="Italy - TOP",TV8
+http://worldtv.homeassistants.app/?v=53709
+#EXTINF:-1 tvg-id="topcrime.it" tvg-name="TOP CRIME" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/TOP%20CRIME.png" group-title="Italy - TOP",TOP CRIME
+http://worldtv.homeassistants.app/?v=53705
+#EXTINF:-1 tvg-id="cine34.it" tvg-name="CINE 34" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/CINE%2034.png" group-title="Italy - Cinema",CINE 34
+http://worldtv.homeassistants.app/?v=53356
+#EXTINF:-1 tvg-id="iris.it" tvg-name="IRIS" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/IRIS.png" group-title="Italy - Cinema",IRIS
+http://worldtv.homeassistants.app/?v=53413
+#EXTINF:-1 tvg-id="raimovie.it" tvg-name="RAI MOVIE" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/RAI%20MOVIE.png" group-title="Italy - Cinema",RAI MOVIE
+http://worldtv.homeassistants.app/?v=53583
+#EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20CINEMA%20ACTION.png" group-title="Italy - Cinema",SKY CINEMA ACTION
+http://worldtv.homeassistants.app/?v=53619
+#EXTINF:-1 tvg-id="skycinemacollection.it" tvg-name="SKY CINEMA COLLECTION" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20CINEMA%20COLLECTION.png" group-title="Italy - Cinema",SKY CINEMA COLLECTION
+http://worldtv.homeassistants.app/?v=53621
+#EXTINF:-1 tvg-id="skycinemacomedy.it" tvg-name="SKY CINEMA COMEDY" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20CINEMA%20COMEDY.png" group-title="Italy - Cinema",SKY CINEMA COMEDY
+http://worldtv.homeassistants.app/?v=53623
+#EXTINF:-1 tvg-id="skycinemadrama.it" tvg-name="SKY CINEMA DRAMA" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20CINEMA%20DRAMA.png" group-title="Italy - Cinema",SKY CINEMA DRAMA
+http://worldtv.homeassistants.app/?v=53625
+#EXTINF:-1 tvg-id="skycinemadue24.it" tvg-name="SKY CINEMA DUE +24" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20CINEMA%20DUE%20%2B24.png" group-title="Italy - Cinema",SKY CINEMA DUE +24
+http://worldtv.homeassistants.app/?v=53627
+#EXTINF:-1 tvg-id="skycinemadue.it" tvg-name="SKY CINEMA DUE" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20CINEMA%20DUE.png" group-title="Italy - Cinema",SKY CINEMA DUE
+http://worldtv.homeassistants.app/?v=53629
+#EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="SKY CINEMA FAMILY" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20CINEMA%20FAMILY.png" group-title="Italy - Cinema",SKY CINEMA FAMILY
+http://worldtv.homeassistants.app/?v=53631
+#EXTINF:-1 tvg-id="skycinemaromance.it" tvg-name="SKY CINEMA ROMANCE" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20CINEMA%20ROMANCE.png" group-title="Italy - Cinema",SKY CINEMA ROMANCE
+http://worldtv.homeassistants.app/?v=53633
+#EXTINF:-1 tvg-id="skycinemasuspense.it" tvg-name="SKY CINEMA SUSPENSE" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20CINEMA%20SUSPENSE.png" group-title="Italy - Cinema",SKY CINEMA SUSPENSE
+http://worldtv.homeassistants.app/?v=53635
+#EXTINF:-1 tvg-id="skycinemauno24.it" tvg-name="SKY CINEMA UNO +24" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20CINEMA%20UNO%20%2B24.png" group-title="Italy - Cinema",SKY CINEMA UNO +24
+http://worldtv.homeassistants.app/?v=53639
+#EXTINF:-1 tvg-id="skycinemauno.it" tvg-name="SKY CINEMA UNO" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20CINEMA%20UNO.png" group-title="Italy - Cinema",SKY CINEMA UNO
+http://worldtv.homeassistants.app/?v=53640
+#EXTINF:-1 tvg-id="eaglecinema007.it" tvg-name="Eagle Cinema 007" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Eagle%20Cinema%20007.png" group-title="Italy - Cinema",Eagle Cinema 007
+http://worldtv.homeassistants.app/?v=113521
+#EXTINF:-1 tvg-id="eaglecinema20thcenturyfox.it" tvg-name="Eagle Cinema 20th Century Fox" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Eagle%20Cinema%2020th%20Century%20Fox.png" group-title="Italy - Cinema",Eagle Cinema 20th Century Fox
+http://worldtv.homeassistants.app/?v=113508
+#EXTINF:-1 tvg-id="eaglecinemaanimazione.it" tvg-name="Eagle Cinema Animazione" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Eagle%20Cinema%20Animazione.png" group-title="Italy - Cinema",Eagle Cinema Animazione
+http://worldtv.homeassistants.app/?v=113522
+#EXTINF:-1 tvg-id="eaglecinemaavventura.it" tvg-name="Eagle Cinema Avventura" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Eagle%20Cinema%20Avventura.png" group-title="Italy - Cinema",Eagle Cinema Avventura
+http://worldtv.homeassistants.app/?v=113523
+#EXTINF:-1 tvg-id="eaglecinemaazione.it" tvg-name="Eagle Cinema Azione" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Eagle%20Cinema%20Azione.png" group-title="Italy - Cinema",Eagle Cinema Azione
+http://worldtv.homeassistants.app/?v=113524
+#EXTINF:-1 tvg-id="eaglecinemabiografico.it" tvg-name="Eagle Cinema Biografico" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Eagle%20Cinema%20Biografico.png" group-title="Italy - Cinema",Eagle Cinema Biografico
+http://worldtv.homeassistants.app/?v=113525
+#EXTINF:-1 tvg-id="eaglecinemacinepanettone.it" tvg-name="Eagle Cinema Cinepanettone" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Eagle%20Cinema%20Cinepanettone.png" group-title="Italy - Cinema",Eagle Cinema Cinepanettone
+http://worldtv.homeassistants.app/?v=113545
+#EXTINF:-1 tvg-id="eaglecinemacomicocult.it" tvg-name="Eagle Cinema Comico Cult" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Eagle%20Cinema%20Comico%20Cult.png" group-title="Italy - Cinema",Eagle Cinema Comico Cult
+http://worldtv.homeassistants.app/?v=113527
+#EXTINF:-1 tvg-id="eaglecinemacommedia.it" tvg-name="Eagle Cinema Commedia" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Eagle%20Cinema%20Commedia.png" group-title="Italy - Cinema",Eagle Cinema Commedia
+http://worldtv.homeassistants.app/?v=113528
+#EXTINF:-1 tvg-id="eaglecinemadrammatico.it" tvg-name="Eagle Cinema Drammatico" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Eagle%20Cinema%20Drammatico.png" group-title="Italy - Cinema",Eagle Cinema Drammatico
+http://worldtv.homeassistants.app/?v=113529
+#EXTINF:-1 tvg-id="eaglecinemafamiglia.it" tvg-name="Eagle Cinema Famiglia" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Eagle%20Cinema%20Famiglia.png" group-title="Italy - Cinema",Eagle Cinema Famiglia
+http://worldtv.homeassistants.app/?v=113530
+#EXTINF:-1 tvg-id="eaglecinemafantascienza.it" tvg-name="Eagle Cinema Fantascienza" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Eagle%20Cinema%20Fantascienza.png" group-title="Italy - Cinema",Eagle Cinema Fantascienza
+http://worldtv.homeassistants.app/?v=113531
+#EXTINF:-1 tvg-id="eaglecinemafantastico.it" tvg-name="Eagle Cinema Fantastico" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Eagle%20Cinema%20Fantastico.png" group-title="Italy - Cinema",Eagle Cinema Fantastico
+http://worldtv.homeassistants.app/?v=113532
+#EXTINF:-1 tvg-id="eaglecinemafilminsala.it" tvg-name="Eagle Cinema Film in Sala" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Eagle%20Cinema%20Film%20in%20Sala.png" group-title="Italy - Cinema",Eagle Cinema Film in Sala
+http://worldtv.homeassistants.app/?v=113533
+#EXTINF:-1 tvg-id="eaglecinemahorror.it" tvg-name="Eagle Cinema Horror" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Eagle%20Cinema%20Horror.png" group-title="Italy - Cinema",Eagle Cinema Horror
+http://worldtv.homeassistants.app/?v=113534
+#EXTINF:-1 tvg-id="eaglecinemamarvel.it" tvg-name="Eagle Cinema Marvel" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Eagle%20Cinema%20Marvel.png" group-title="Italy - Cinema",Eagle Cinema Marvel
+http://worldtv.homeassistants.app/?v=113568
+#EXTINF:-1 tvg-id="eaglecinemamitologia.it" tvg-name="Eagle Cinema Mitologia" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Eagle%20Cinema%20Mitologia.png" group-title="Italy - Cinema",Eagle Cinema Mitologia
+http://worldtv.homeassistants.app/?v=113535
+#EXTINF:-1 tvg-id="eaglecinemapassione.it" tvg-name="Eagle Cinema Passione" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Eagle%20Cinema%20Passione.png" group-title="Italy - Cinema",Eagle Cinema Passione
+http://worldtv.homeassistants.app/?v=113536
+#EXTINF:-1 tvg-id="eaglecinemaprimavisione.it" tvg-name="Eagle Cinema Prima Visione" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Eagle%20Cinema%20Prima%20Visione.png" group-title="Italy - Cinema",Eagle Cinema Prima Visione
+http://worldtv.homeassistants.app/?v=113537
+#EXTINF:-1 tvg-id="eaglecinemareligion.it" tvg-name="Eagle Cinema Religion" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Eagle%20Cinema%20Religion.png" group-title="Italy - Cinema",Eagle Cinema Religion
+http://worldtv.homeassistants.app/?v=113538
+#EXTINF:-1 tvg-id="eaglecinemasorriso.it" tvg-name="Eagle Cinema Sorriso" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Eagle%20Cinema%20Sorriso.png" group-title="Italy - Cinema",Eagle Cinema Sorriso
+http://worldtv.homeassistants.app/?v=113539
+#EXTINF:-1 tvg-id="eaglecinemaspaghettiwestern.it" tvg-name="Eagle Cinema Spaghetti Western" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Eagle%20Cinema%20Spaghetti%20Western.png" group-title="Italy - Cinema",Eagle Cinema Spaghetti Western
+http://worldtv.homeassistants.app/?v=113540
+#EXTINF:-1 tvg-id="eaglecinemastorico.it" tvg-name="Eagle Cinema Storico" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Eagle%20Cinema%20Storico.png" group-title="Italy - Cinema",Eagle Cinema Storico
+http://worldtv.homeassistants.app/?v=113541
+#EXTINF:-1 tvg-id="eaglecinemathriller.it" tvg-name="Eagle Cinema Thriller" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Eagle%20Cinema%20Thriller.png" group-title="Italy - Cinema",Eagle Cinema Thriller
+http://worldtv.homeassistants.app/?v=113542
+#EXTINF:-1 tvg-id="eaglecinema.it" tvg-name="Eagle Cinema" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Eagle%20Cinema.png" group-title="Italy - Cinema",Eagle Cinema
+http://worldtv.homeassistants.app/?v=113543
+#EXTINF:-1 tvg-id="eaglecinemawestern.it" tvg-name="Eagle Cinema Western" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Eagle%20Cinema%20Western.png" group-title="Italy - Cinema",Eagle Cinema Western
+http://worldtv.homeassistants.app/?v=113544
+#EXTINF:-1 tvg-id="babytv.it" tvg-name="BABY TV" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/BABY%20TV.png" group-title="Italy - Bambini",BABY TV
+http://worldtv.homeassistants.app/?v=53335
+#EXTINF:-1 tvg-id="boing.it" tvg-name="BOING" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/BOING.png" group-title="Italy - Bambini",BOING
+http://worldtv.homeassistants.app/?v=53340
+#EXTINF:-1 tvg-id="boingplus.it" tvg-name="BOING PLUS" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/BOING%20PLUS.png" group-title="Italy - Bambini",BOING PLUS
+http://worldtv.homeassistants.app/?v=53341
+#EXTINF:-1 tvg-id="boomerang.it" tvg-name="BOOMERANG" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/BOOMERANG.png" group-title="Italy - Bambini",BOOMERANG
+http://worldtv.homeassistants.app/?v=53342
+#EXTINF:-1 tvg-id="cartonito.it" tvg-name="CARTONITO" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/CARTONITO.png" group-title="Italy - Bambini",CARTONITO
+http://worldtv.homeassistants.app/?v=53351
+#EXTINF:-1 tvg-id="cartoonnetwork.it" tvg-name="CARTOON NETWORK" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/CARTOON%20NETWORK.png" group-title="Italy - Bambini",CARTOON NETWORK
+http://worldtv.homeassistants.app/?v=53352
+#EXTINF:-1 tvg-id="deakids.it" tvg-name="DEA KIDS" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DEA%20KIDS.png" group-title="Italy - Bambini",DEA KIDS
+http://worldtv.homeassistants.app/?v=53377
+#EXTINF:-1 tvg-id="frisbee.it" tvg-name="FRISBEE" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/FRISBEE.png" group-title="Italy - Bambini",FRISBEE
+http://worldtv.homeassistants.app/?v=53400
+#EXTINF:-1 tvg-id="k2.it" tvg-name="K2" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/K2.png" group-title="Italy - Bambini",K2
+http://worldtv.homeassistants.app/?v=53418
+#EXTINF:-1 tvg-id="nickjr.it" tvg-name="NICK JR" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/NICK%20JR.png" group-title="Italy - Bambini",NICK JR
+http://worldtv.homeassistants.app/?v=53556
+#EXTINF:-1 tvg-id="nickelodeon.it" tvg-name="NICKELODEON" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/NICKELODEON.png" group-title="Italy - Bambini",NICKELODEON
+http://worldtv.homeassistants.app/?v=53557
+#EXTINF:-1 tvg-id="raigulp.it" tvg-name="RAI GULP" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/RAI%20GULP.png" group-title="Italy - Bambini",RAI GULP
+http://worldtv.homeassistants.app/?v=53582
+#EXTINF:-1 tvg-id="raiyoyo.it" tvg-name="RAI YOYO" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/RAI%20YOYO.png" group-title="Italy - Bambini",RAI YOYO
+http://worldtv.homeassistants.app/?v=53591
+#EXTINF:-1 tvg-id="super.it" tvg-name="SUPER!" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SUPER!.png" group-title="Italy - Bambini",SUPER!
+http://worldtv.homeassistants.app/?v=53699
+#EXTINF:-1 tvg-id="bing.it" tvg-name="Bing" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Bing.png" group-title="Italy - Bambini",Bing
+http://worldtv.homeassistants.app/?v=113516
+#EXTINF:-1 tvg-id="disney.it" tvg-name="Disney+" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Disney%2B.png" group-title="Italy - Bambini",Disney+
+http://worldtv.homeassistants.app/?v=113548
+#EXTINF:-1 tvg-id="fiabemagiche.it" tvg-name="Fiabe Magiche" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Fiabe%20Magiche.png" group-title="Italy - Bambini",Fiabe Magiche
+http://worldtv.homeassistants.app/?v=113552
+#EXTINF:-1 tvg-id="lefiabedisney.it" tvg-name="Le Fiabe Disney" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Le%20Fiabe%20Disney.png" group-title="Italy - Bambini",Le Fiabe Disney
+http://worldtv.homeassistants.app/?v=113563
+#EXTINF:-1 tvg-id="looneytunes.it" tvg-name="Looney Tunes" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Looney%20Tunes.png" group-title="Italy - Bambini",Looney Tunes
+http://worldtv.homeassistants.app/?v=113565
+#EXTINF:-1 tvg-id="mashaeorso.it" tvg-name="Masha e Orso" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Masha%20e%20Orso.png" group-title="Italy - Bambini",Masha e Orso
+http://worldtv.homeassistants.app/?v=113569
+#EXTINF:-1 tvg-id="peppapig.it" tvg-name="Peppa Pig" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Peppa%20Pig.png" group-title="Italy - Bambini",Peppa Pig
+http://worldtv.homeassistants.app/?v=113575
+#EXTINF:-1 tvg-id="pjmaskssuperpigiamini.it" tvg-name="PJ Masks - Superpigiamini" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/PJ%20Masks%20-%20Superpigiamini.png" group-title="Italy - Bambini",PJ Masks - Superpigiamini
+http://worldtv.homeassistants.app/?v=113578
+#EXTINF:-1 tvg-id="dazn1.it" tvg-name="DAZN 1" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%201.png" group-title="Italy - DAZN",DAZN 1
+http://worldtv.homeassistants.app/?v=53361
+#EXTINF:-1 tvg-id="dazn2.it" tvg-name="DAZN 2" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%202.png" group-title="Italy - DAZN",DAZN 2
+http://worldtv.homeassistants.app/?v=53365
+#EXTINF:-1 tvg-id="dazn3.it" tvg-name="DAZN 3" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%203.png" group-title="Italy - DAZN",DAZN 3
+http://worldtv.homeassistants.app/?v=53366
+#EXTINF:-1 tvg-id="dazn4.it" tvg-name="DAZN 4" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%204.png" group-title="Italy - DAZN",DAZN 4
+http://worldtv.homeassistants.app/?v=53367
+#EXTINF:-1 tvg-id="dazn5.it" tvg-name="DAZN 5" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%205.png" group-title="Italy - DAZN",DAZN 5
+http://worldtv.homeassistants.app/?v=53368
+#EXTINF:-1 tvg-id="dazn6.it" tvg-name="DAZN 6" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%206.png" group-title="Italy - DAZN",DAZN 6
+http://worldtv.homeassistants.app/?v=53369
+#EXTINF:-1 tvg-id="dazn7.it" tvg-name="DAZN 7" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%207.png" group-title="Italy - DAZN",DAZN 7
+http://worldtv.homeassistants.app/?v=53370
+#EXTINF:-1 tvg-id="dazn8.it" tvg-name="DAZN 8" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%208.png" group-title="Italy - DAZN",DAZN 8
+http://worldtv.homeassistants.app/?v=53371
+#EXTINF:-1 tvg-id="dazn9.it" tvg-name="DAZN 9" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%209.png" group-title="Italy - DAZN",DAZN 9
+http://worldtv.homeassistants.app/?v=53372
+#EXTINF:-1 tvg-id="dazn10.it" tvg-name="DAZN 10" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%2010.png" group-title="Italy - DAZN",DAZN 10
+http://worldtv.homeassistants.app/?v=53362
+#EXTINF:-1 tvg-id="dazn11.it" tvg-name="DAZN 11" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%2011.png" group-title="Italy - DAZN",DAZN 11
+http://worldtv.homeassistants.app/?v=53363
+#EXTINF:-1 tvg-id="dazn12.it" tvg-name="DAZN 12" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%2012.png" group-title="Italy - DAZN",DAZN 12
+http://worldtv.homeassistants.app/?v=53364
+#EXTINF:-1 tvg-id="zonadazn.it" tvg-name="ZONA DAZN" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/ZONA%20DAZN.png" group-title="Italy - DAZN",ZONA DAZN
+http://worldtv.homeassistants.app/?v=53712
+#EXTINF:-1 tvg-id="daznevent1.it" tvg-name="DAZN Event 1" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%201.png" group-title="Italy - DAZN",DAZN Event 1
+http://worldtv.homeassistants.app/?v=100016
+#EXTINF:-1 tvg-id="daznevent2.it" tvg-name="DAZN Event 2" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%202.png" group-title="Italy - DAZN",DAZN Event 2
+http://worldtv.homeassistants.app/?v=100017
+#EXTINF:-1 tvg-id="daznevent3.it" tvg-name="DAZN Event 3" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%203.png" group-title="Italy - DAZN",DAZN Event 3
+http://worldtv.homeassistants.app/?v=100018
+#EXTINF:-1 tvg-id="daznevent4.it" tvg-name="DAZN Event 4" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%204.png" group-title="Italy - DAZN",DAZN Event 4
+http://worldtv.homeassistants.app/?v=100019
+#EXTINF:-1 tvg-id="daznevent5.it" tvg-name="DAZN Event 5" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%205.png" group-title="Italy - DAZN",DAZN Event 5
+http://worldtv.homeassistants.app/?v=100020
+#EXTINF:-1 tvg-id="daznevent6.it" tvg-name="DAZN Event 6" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%206.png" group-title="Italy - DAZN",DAZN Event 6
+http://worldtv.homeassistants.app/?v=100021
+#EXTINF:-1 tvg-id="daznevent7.it" tvg-name="DAZN Event 7" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%207.png" group-title="Italy - DAZN",DAZN Event 7
+http://worldtv.homeassistants.app/?v=100022
+#EXTINF:-1 tvg-id="daznevent8.it" tvg-name="DAZN Event 8" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%208.png" group-title="Italy - DAZN",DAZN Event 8
+http://worldtv.homeassistants.app/?v=100023
+#EXTINF:-1 tvg-id="daznevent9.it" tvg-name="DAZN Event 9" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%209.png" group-title="Italy - DAZN",DAZN Event 9
+http://worldtv.homeassistants.app/?v=100024
+#EXTINF:-1 tvg-id="daznevent10.it" tvg-name="DAZN Event 10" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2010.png" group-title="Italy - DAZN",DAZN Event 10
+http://worldtv.homeassistants.app/?v=100025
+#EXTINF:-1 tvg-id="daznevent11.it" tvg-name="DAZN Event 11" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2011.png" group-title="Italy - DAZN",DAZN Event 11
+http://worldtv.homeassistants.app/?v=100026
+#EXTINF:-1 tvg-id="daznevent12.it" tvg-name="DAZN Event 12" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2012.png" group-title="Italy - DAZN",DAZN Event 12
+http://worldtv.homeassistants.app/?v=100027
+#EXTINF:-1 tvg-id="daznevent13.it" tvg-name="DAZN Event 13" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2013.png" group-title="Italy - DAZN",DAZN Event 13
+http://worldtv.homeassistants.app/?v=100028
+#EXTINF:-1 tvg-id="daznevent14.it" tvg-name="DAZN Event 14" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2014.png" group-title="Italy - DAZN",DAZN Event 14
+http://worldtv.homeassistants.app/?v=100029
+#EXTINF:-1 tvg-id="daznevent15.it" tvg-name="DAZN Event 15" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2015.png" group-title="Italy - DAZN",DAZN Event 15
+http://worldtv.homeassistants.app/?v=100030
+#EXTINF:-1 tvg-id="daznevent16.it" tvg-name="DAZN Event 16" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2016.png" group-title="Italy - DAZN",DAZN Event 16
+http://worldtv.homeassistants.app/?v=100031
+#EXTINF:-1 tvg-id="daznevent17.it" tvg-name="DAZN Event 17" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2017.png" group-title="Italy - DAZN",DAZN Event 17
+http://worldtv.homeassistants.app/?v=100032
+#EXTINF:-1 tvg-id="daznevent18.it" tvg-name="DAZN Event 18" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2018.png" group-title="Italy - DAZN",DAZN Event 18
+http://worldtv.homeassistants.app/?v=100033
+#EXTINF:-1 tvg-id="daznevent19.it" tvg-name="DAZN Event 19" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2019.png" group-title="Italy - DAZN",DAZN Event 19
+http://worldtv.homeassistants.app/?v=100034
+#EXTINF:-1 tvg-id="daznevent20.it" tvg-name="DAZN Event 20" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2020.png" group-title="Italy - DAZN",DAZN Event 20
+http://worldtv.homeassistants.app/?v=100035
+#EXTINF:-1 tvg-id="daznevent21.it" tvg-name="DAZN Event 21" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2021.png" group-title="Italy - DAZN",DAZN Event 21
+http://worldtv.homeassistants.app/?v=100036
+#EXTINF:-1 tvg-id="daznevent22.it" tvg-name="DAZN Event 22" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2022.png" group-title="Italy - DAZN",DAZN Event 22
+http://worldtv.homeassistants.app/?v=100037
+#EXTINF:-1 tvg-id="daznevent23.it" tvg-name="DAZN Event 23" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2023.png" group-title="Italy - DAZN",DAZN Event 23
+http://worldtv.homeassistants.app/?v=100038
+#EXTINF:-1 tvg-id="daznevent24.it" tvg-name="DAZN Event 24" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2024.png" group-title="Italy - DAZN",DAZN Event 24
+http://worldtv.homeassistants.app/?v=100039
+#EXTINF:-1 tvg-id="daznevent25.it" tvg-name="DAZN Event 25" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2025.png" group-title="Italy - DAZN",DAZN Event 25
+http://worldtv.homeassistants.app/?v=100040
+#EXTINF:-1 tvg-id="daznevent26.it" tvg-name="DAZN Event 26" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2026.png" group-title="Italy - DAZN",DAZN Event 26
+http://worldtv.homeassistants.app/?v=100041
+#EXTINF:-1 tvg-id="daznevent27.it" tvg-name="DAZN Event 27" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2027.png" group-title="Italy - DAZN",DAZN Event 27
+http://worldtv.homeassistants.app/?v=100042
+#EXTINF:-1 tvg-id="daznevent28.it" tvg-name="DAZN Event 28" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2028.png" group-title="Italy - DAZN",DAZN Event 28
+http://worldtv.homeassistants.app/?v=100043
+#EXTINF:-1 tvg-id="daznevent29.it" tvg-name="DAZN Event 29" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2029.png" group-title="Italy - DAZN",DAZN Event 29
+http://worldtv.homeassistants.app/?v=100044
+#EXTINF:-1 tvg-id="daznevent30.it" tvg-name="DAZN Event 30" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2030.png" group-title="Italy - DAZN",DAZN Event 30
+http://worldtv.homeassistants.app/?v=100045
+#EXTINF:-1 tvg-id="daznevent31.it" tvg-name="DAZN Event 31" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2031.png" group-title="Italy - DAZN",DAZN Event 31
+http://worldtv.homeassistants.app/?v=100046
+#EXTINF:-1 tvg-id="daznevent32.it" tvg-name="DAZN Event 32" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2032.png" group-title="Italy - DAZN",DAZN Event 32
+http://worldtv.homeassistants.app/?v=100047
+#EXTINF:-1 tvg-id="daznevent33.it" tvg-name="DAZN Event 33" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2033.png" group-title="Italy - DAZN",DAZN Event 33
+http://worldtv.homeassistants.app/?v=100048
+#EXTINF:-1 tvg-id="daznevent34.it" tvg-name="DAZN Event 34" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2034.png" group-title="Italy - DAZN",DAZN Event 34
+http://worldtv.homeassistants.app/?v=100049
+#EXTINF:-1 tvg-id="daznevent35.it" tvg-name="DAZN Event 35" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2035.png" group-title="Italy - DAZN",DAZN Event 35
+http://worldtv.homeassistants.app/?v=100050
+#EXTINF:-1 tvg-id="daznevent36.it" tvg-name="DAZN Event 36" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2036.png" group-title="Italy - DAZN",DAZN Event 36
+http://worldtv.homeassistants.app/?v=100051
+#EXTINF:-1 tvg-id="daznevent37.it" tvg-name="DAZN Event 37" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2037.png" group-title="Italy - DAZN",DAZN Event 37
+http://worldtv.homeassistants.app/?v=100052
+#EXTINF:-1 tvg-id="daznevent38.it" tvg-name="DAZN Event 38" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2038.png" group-title="Italy - DAZN",DAZN Event 38
+http://worldtv.homeassistants.app/?v=100053
+#EXTINF:-1 tvg-id="daznevent39.it" tvg-name="DAZN Event 39" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2039.png" group-title="Italy - DAZN",DAZN Event 39
+http://worldtv.homeassistants.app/?v=100054
+#EXTINF:-1 tvg-id="daznevent40.it" tvg-name="DAZN Event 40" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2040.png" group-title="Italy - DAZN",DAZN Event 40
+http://worldtv.homeassistants.app/?v=100055
+#EXTINF:-1 tvg-id="daznevent41.it" tvg-name="DAZN Event 41" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2041.png" group-title="Italy - DAZN",DAZN Event 41
+http://worldtv.homeassistants.app/?v=100056
+#EXTINF:-1 tvg-id="daznevent42.it" tvg-name="DAZN Event 42" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2042.png" group-title="Italy - DAZN",DAZN Event 42
+http://worldtv.homeassistants.app/?v=100057
+#EXTINF:-1 tvg-id="daznevent43.it" tvg-name="DAZN Event 43" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2043.png" group-title="Italy - DAZN",DAZN Event 43
+http://worldtv.homeassistants.app/?v=100058
+#EXTINF:-1 tvg-id="daznevent44.it" tvg-name="DAZN Event 44" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2044.png" group-title="Italy - DAZN",DAZN Event 44
+http://worldtv.homeassistants.app/?v=100059
+#EXTINF:-1 tvg-id="daznevent45.it" tvg-name="DAZN Event 45" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2045.png" group-title="Italy - DAZN",DAZN Event 45
+http://worldtv.homeassistants.app/?v=100060
+#EXTINF:-1 tvg-id="daznevent46.it" tvg-name="DAZN Event 46" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2046.png" group-title="Italy - DAZN",DAZN Event 46
+http://worldtv.homeassistants.app/?v=100061
+#EXTINF:-1 tvg-id="daznevent47.it" tvg-name="DAZN Event 47" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2047.png" group-title="Italy - DAZN",DAZN Event 47
+http://worldtv.homeassistants.app/?v=100062
+#EXTINF:-1 tvg-id="daznevent48.it" tvg-name="DAZN Event 48" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2048.png" group-title="Italy - DAZN",DAZN Event 48
+http://worldtv.homeassistants.app/?v=100063
+#EXTINF:-1 tvg-id="daznevent49.it" tvg-name="DAZN Event 49" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2049.png" group-title="Italy - DAZN",DAZN Event 49
+http://worldtv.homeassistants.app/?v=100064
+#EXTINF:-1 tvg-id="daznevent50.it" tvg-name="DAZN Event 50" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2050.png" group-title="Italy - DAZN",DAZN Event 50
+http://worldtv.homeassistants.app/?v=100065
+#EXTINF:-1 tvg-id="20mediaset.it" tvg-name="20 MEDIASET" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/20%20MEDIASET.png" group-title="Italy - Intrattenimento",20 MEDIASET
+http://worldtv.homeassistants.app/?v=53332
+#EXTINF:-1 tvg-id="27mediaset.it" tvg-name="27 Mediaset" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/27%20Mediaset.png" group-title="Italy - Intrattenimento",27 Mediaset
+http://worldtv.homeassistants.app/?v=53334
+#EXTINF:-1 tvg-id="canale20.it" tvg-name="CANALE 20" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/CANALE%2020.png" group-title="Italy - Intrattenimento",CANALE 20
+http://worldtv.homeassistants.app/?v=53347
+#EXTINF:-1 tvg-id="comedycentral.it" tvg-name="COMEDY CENTRAL" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/COMEDY%20CENTRAL.png" group-title="Italy - Intrattenimento",COMEDY CENTRAL
+http://worldtv.homeassistants.app/?v=53357
+#EXTINF:-1 tvg-id="discoveryhomeegarden.it" tvg-name="DISCOVERY HOME E GARDEN" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DISCOVERY%20HOME%20E%20GARDEN.png" group-title="Italy - Intrattenimento",DISCOVERY HOME E GARDEN
+http://worldtv.homeassistants.app/?v=53384
+#EXTINF:-1 tvg-id="discoverymotortrend.it" tvg-name="DISCOVERY MOTOR TREND" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DISCOVERY%20MOTOR%20TREND.png" group-title="Italy - Intrattenimento",DISCOVERY MOTOR TREND
+http://worldtv.homeassistants.app/?v=53385
+#EXTINF:-1 tvg-id="dmax.it" tvg-name="DMAX" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DMAX.png" group-title="Italy - Intrattenimento",DMAX
+http://worldtv.homeassistants.app/?v=53388
+#EXTINF:-1 tvg-id="foodnetwork.it" tvg-name="FOOD NETWORK" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/FOOD%20NETWORK.png" group-title="Italy - Intrattenimento",FOOD NETWORK
+http://worldtv.homeassistants.app/?v=53399
+#EXTINF:-1 tvg-id="gamberorosso.it" tvg-name="GAMBERO ROSSO" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/GAMBERO%20ROSSO.png" group-title="Italy - Intrattenimento",GAMBERO ROSSO
+http://worldtv.homeassistants.app/?v=53401
+#EXTINF:-1 tvg-id="grandefratelloregia1.it" tvg-name="GRANDE FRATELLO (REGIA 1)" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/GRANDE%20FRATELLO%20(REGIA%201).png" group-title="Italy - Intrattenimento",GRANDE FRATELLO (REGIA 1)
+http://worldtv.homeassistants.app/?v=53404
+#EXTINF:-1 tvg-id="grandefratelloregia2.it" tvg-name="GRANDE FRATELLO (REGIA 2)" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/GRANDE%20FRATELLO%20(REGIA%202).png" group-title="Italy - Intrattenimento",GRANDE FRATELLO (REGIA 2)
+http://worldtv.homeassistants.app/?v=53405
+#EXTINF:-1 tvg-id="grandefratellounorafa.it" tvg-name="GRANDE FRATELLO (UN'ORA FA)" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/GRANDE%20FRATELLO%20(UN'ORA%20FA).png" group-title="Italy - Intrattenimento",GRANDE FRATELLO (UN'ORA FA)
+http://worldtv.homeassistants.app/?v=53406
+#EXTINF:-1 tvg-id="la7d.it" tvg-name="LA7D" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/LA7D.png" group-title="Italy - Intrattenimento",LA7D
+http://worldtv.homeassistants.app/?v=53419
+#EXTINF:-1 tvg-id="mediasetextra.it" tvg-name="MEDIASET EXTRA" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/MEDIASET%20EXTRA.png" group-title="Italy - Intrattenimento",MEDIASET EXTRA
+http://worldtv.homeassistants.app/?v=53547
+#EXTINF:-1 tvg-id="realtime.it" tvg-name="REAL TIME" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/REAL%20TIME.png" group-title="Italy - Intrattenimento",REAL TIME
+http://worldtv.homeassistants.app/?v=53592
+#EXTINF:-1 tvg-id="skycrime.it" tvg-name="SKY CRIME" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20CRIME.png" group-title="Italy - Intrattenimento",SKY CRIME
+http://worldtv.homeassistants.app/?v=53359
+#EXTINF:-1 tvg-id="skyinvestigation.it" tvg-name="SKY INVESTIGATION" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20INVESTIGATION.png" group-title="Italy - Intrattenimento",SKY INVESTIGATION
+http://worldtv.homeassistants.app/?v=53647
+#EXTINF:-1 tvg-id="skyuno1.it" tvg-name="SKY UNO +1" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20UNO%20%2B1.png" group-title="Italy - Intrattenimento",SKY UNO +1
+http://worldtv.homeassistants.app/?v=53637
+#EXTINF:-1 tvg-id="skyuno.it" tvg-name="SKY UNO" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20UNO.png" group-title="Italy - Intrattenimento",SKY UNO
+http://worldtv.homeassistants.app/?v=53695
+#EXTINF:-1 tvg-id="bing.it" tvg-name="Bing" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Bing.png" group-title="Italy - Eagle Bambini",Bing
+http://worldtv.homeassistants.app/?v=113516
+#EXTINF:-1 tvg-id="disney.it" tvg-name="Disney+" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Disney%2B.png" group-title="Italy - Eagle Bambini",Disney+
+http://worldtv.homeassistants.app/?v=113548
+#EXTINF:-1 tvg-id="fiabemagiche.it" tvg-name="Fiabe Magiche" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Fiabe%20Magiche.png" group-title="Italy - Eagle Bambini",Fiabe Magiche
+http://worldtv.homeassistants.app/?v=113552
+#EXTINF:-1 tvg-id="lefiabedisney.it" tvg-name="Le Fiabe Disney" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Le%20Fiabe%20Disney.png" group-title="Italy - Eagle Bambini",Le Fiabe Disney
+http://worldtv.homeassistants.app/?v=113563
+#EXTINF:-1 tvg-id="looneytunes.it" tvg-name="Looney Tunes" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Looney%20Tunes.png" group-title="Italy - Eagle Bambini",Looney Tunes
+http://worldtv.homeassistants.app/?v=113565
+#EXTINF:-1 tvg-id="mashaeorso.it" tvg-name="Masha e Orso" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Masha%20e%20Orso.png" group-title="Italy - Eagle Bambini",Masha e Orso
+http://worldtv.homeassistants.app/?v=113569
+#EXTINF:-1 tvg-id="peppapig.it" tvg-name="Peppa Pig" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Peppa%20Pig.png" group-title="Italy - Eagle Bambini",Peppa Pig
+http://worldtv.homeassistants.app/?v=113575
+#EXTINF:-1 tvg-id="pjmaskssuperpigiamini.it" tvg-name="PJ Masks - Superpigiamini" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/PJ%20Masks%20-%20Superpigiamini.png" group-title="Italy - Eagle Bambini",PJ Masks - Superpigiamini
+http://worldtv.homeassistants.app/?v=113578
+#EXTINF:-1 tvg-id="intertv.it" tvg-name="INTER TV" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/INTER%20TV.png" group-title="Italy - Calcio",INTER TV
+http://worldtv.homeassistants.app/?v=53412
+#EXTINF:-1 tvg-id="laziostylechannel.it" tvg-name="LAZIO STYLE CHANNEL" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/LAZIO%20STYLE%20CHANNEL.png" group-title="Italy - Calcio",LAZIO STYLE CHANNEL
+http://worldtv.homeassistants.app/?v=53649
+#EXTINF:-1 tvg-id="milantv.it" tvg-name="MILAN TV" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/MILAN%20TV.png" group-title="Italy - Calcio",MILAN TV
+http://worldtv.homeassistants.app/?v=53548
+#EXTINF:-1 tvg-id="skysport251.it" tvg-name="SKY SPORT 251" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20SPORT%20251.png" group-title="Italy - Calcio",SKY SPORT 251
+http://worldtv.homeassistants.app/?v=53605
+#EXTINF:-1 tvg-id="skysport252.it" tvg-name="SKY SPORT 252" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20SPORT%20252.png" group-title="Italy - Calcio",SKY SPORT 252
+http://worldtv.homeassistants.app/?v=53607
+#EXTINF:-1 tvg-id="skysport253.it" tvg-name="SKY SPORT 253" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20SPORT%20253.png" group-title="Italy - Calcio",SKY SPORT 253
+http://worldtv.homeassistants.app/?v=53609
+#EXTINF:-1 tvg-id="skysport254.it" tvg-name="SKY SPORT 254" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20SPORT%20254.png" group-title="Italy - Calcio",SKY SPORT 254
+http://worldtv.homeassistants.app/?v=53611
+#EXTINF:-1 tvg-id="skysport255.it" tvg-name="SKY SPORT 255" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20SPORT%20255.png" group-title="Italy - Calcio",SKY SPORT 255
+http://worldtv.homeassistants.app/?v=53613
+#EXTINF:-1 tvg-id="skysport256.it" tvg-name="SKY SPORT 256" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20SPORT%20256.png" group-title="Italy - Calcio",SKY SPORT 256
+http://worldtv.homeassistants.app/?v=53615
+#EXTINF:-1 tvg-id="skysport257.it" tvg-name="SKY SPORT 257" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20SPORT%20257.png" group-title="Italy - Calcio",SKY SPORT 257
+http://worldtv.homeassistants.app/?v=53617
+#EXTINF:-1 tvg-id="skysport258.it" tvg-name="SKY SPORT 258" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20SPORT%20258.png" group-title="Italy - Calcio",SKY SPORT 258
+http://worldtv.homeassistants.app/?v=53618
+#EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="SKY SPORT CALCIO" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20SPORT%20CALCIO.png" group-title="Italy - Calcio",SKY SPORT CALCIO
+http://worldtv.homeassistants.app/?v=53677
+#EXTINF:-1 tvg-id="caccia.it" tvg-name="CACCIA" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/CACCIA.png" group-title="Italy - Cultura",CACCIA
+http://worldtv.homeassistants.app/?v=53345
+#EXTINF:-1 tvg-id="discoverychannel.it" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DISCOVERY%20CHANNEL.png" group-title="Italy - Cultura",DISCOVERY CHANNEL
+http://worldtv.homeassistants.app/?v=53382
+#EXTINF:-1 tvg-id="focus.it" tvg-name="FOCUS" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/FOCUS.png" group-title="Italy - Cultura",FOCUS
+http://worldtv.homeassistants.app/?v=53398
+#EXTINF:-1 tvg-id="history.it" tvg-name="HISTORY" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/HISTORY.png" group-title="Italy - Cultura",HISTORY
+http://worldtv.homeassistants.app/?v=53408
+#EXTINF:-1 tvg-id="italianfishingtv.it" tvg-name="ITALIAN FISHING TV" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/ITALIAN%20FISHING%20TV.png" group-title="Italy - Cultura",ITALIAN FISHING TV
+http://worldtv.homeassistants.app/?v=53417
+#EXTINF:-1 tvg-id="pesca.it" tvg-name="PESCA" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/PESCA.png" group-title="Italy - Cultura",PESCA
+http://worldtv.homeassistants.app/?v=53562
+#EXTINF:-1 tvg-id="rai5.it" tvg-name="RAI 5" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/RAI%205.png" group-title="Italy - Cultura",RAI 5
+http://worldtv.homeassistants.app/?v=53580
+#EXTINF:-1 tvg-id="raiscuola.it" tvg-name="RAI SCUOLA" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/RAI%20SCUOLA.png" group-title="Italy - Cultura",RAI SCUOLA
+http://worldtv.homeassistants.app/?v=53586
+#EXTINF:-1 tvg-id="raistoria.it" tvg-name="RAI STORIA" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/RAI%20STORIA.png" group-title="Italy - Cultura",RAI STORIA
+http://worldtv.homeassistants.app/?v=53590
+#EXTINF:-1 tvg-id="skyarte.it" tvg-name="SKY ARTE" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20ARTE.png" group-title="Italy - Cultura",SKY ARTE
+http://worldtv.homeassistants.app/?v=53600
+#EXTINF:-1 tvg-id="skydocumentaries.it" tvg-name="SKY DOCUMENTARIES" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20DOCUMENTARIES.png" group-title="Italy - Cultura",SKY DOCUMENTARIES
+http://worldtv.homeassistants.app/?v=53645
+#EXTINF:-1 tvg-id="skynature.it" tvg-name="SKY NATURE" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20NATURE.png" group-title="Italy - Cultura",SKY NATURE
+http://worldtv.homeassistants.app/?v=53650
+#EXTINF:-1 tvg-id="nationalgeographic.it" tvg-name="National Geographic" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/National%20Geographic.png" group-title="Italy - Cultura",National Geographic
+http://worldtv.homeassistants.app/?v=113571
+#EXTINF:-1 tvg-id="nationalgeographicplus.it" tvg-name="National Geographic Plus" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/National%20Geographic%20Plus.png" group-title="Italy - Cultura",National Geographic Plus
+http://worldtv.homeassistants.app/?v=113572
+#EXTINF:-1 tvg-id="eaglecinema007.it" tvg-name="Eagle Cinema 007" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Eagle%20Cinema%20007.png" group-title="Italy - Eagle Cinema",Eagle Cinema 007
+http://worldtv.homeassistants.app/?v=113521
+#EXTINF:-1 tvg-id="eaglecinema20thcenturyfox.it" tvg-name="Eagle Cinema 20th Century Fox" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Eagle%20Cinema%2020th%20Century%20Fox.png" group-title="Italy - Eagle Cinema",Eagle Cinema 20th Century Fox
+http://worldtv.homeassistants.app/?v=113508
+#EXTINF:-1 tvg-id="eaglecinemaanimazione.it" tvg-name="Eagle Cinema Animazione" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Eagle%20Cinema%20Animazione.png" group-title="Italy - Eagle Cinema",Eagle Cinema Animazione
+http://worldtv.homeassistants.app/?v=113522
+#EXTINF:-1 tvg-id="eaglecinemaavventura.it" tvg-name="Eagle Cinema Avventura" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Eagle%20Cinema%20Avventura.png" group-title="Italy - Eagle Cinema",Eagle Cinema Avventura
+http://worldtv.homeassistants.app/?v=113523
+#EXTINF:-1 tvg-id="eaglecinemaazione.it" tvg-name="Eagle Cinema Azione" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Eagle%20Cinema%20Azione.png" group-title="Italy - Eagle Cinema",Eagle Cinema Azione
+http://worldtv.homeassistants.app/?v=113524
+#EXTINF:-1 tvg-id="eaglecinemabiografico.it" tvg-name="Eagle Cinema Biografico" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Eagle%20Cinema%20Biografico.png" group-title="Italy - Eagle Cinema",Eagle Cinema Biografico
+http://worldtv.homeassistants.app/?v=113525
+#EXTINF:-1 tvg-id="eaglecinemacinepanettone.it" tvg-name="Eagle Cinema Cinepanettone" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Eagle%20Cinema%20Cinepanettone.png" group-title="Italy - Eagle Cinema",Eagle Cinema Cinepanettone
+http://worldtv.homeassistants.app/?v=113545
+#EXTINF:-1 tvg-id="eaglecinemacomicocult.it" tvg-name="Eagle Cinema Comico Cult" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Eagle%20Cinema%20Comico%20Cult.png" group-title="Italy - Eagle Cinema",Eagle Cinema Comico Cult
+http://worldtv.homeassistants.app/?v=113527
+#EXTINF:-1 tvg-id="eaglecinemacommedia.it" tvg-name="Eagle Cinema Commedia" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Eagle%20Cinema%20Commedia.png" group-title="Italy - Eagle Cinema",Eagle Cinema Commedia
+http://worldtv.homeassistants.app/?v=113528
+#EXTINF:-1 tvg-id="eaglecinemadrammatico.it" tvg-name="Eagle Cinema Drammatico" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Eagle%20Cinema%20Drammatico.png" group-title="Italy - Eagle Cinema",Eagle Cinema Drammatico
+http://worldtv.homeassistants.app/?v=113529
+#EXTINF:-1 tvg-id="eaglecinemafamiglia.it" tvg-name="Eagle Cinema Famiglia" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Eagle%20Cinema%20Famiglia.png" group-title="Italy - Eagle Cinema",Eagle Cinema Famiglia
+http://worldtv.homeassistants.app/?v=113530
+#EXTINF:-1 tvg-id="eaglecinemafantascienza.it" tvg-name="Eagle Cinema Fantascienza" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Eagle%20Cinema%20Fantascienza.png" group-title="Italy - Eagle Cinema",Eagle Cinema Fantascienza
+http://worldtv.homeassistants.app/?v=113531
+#EXTINF:-1 tvg-id="eaglecinemafantastico.it" tvg-name="Eagle Cinema Fantastico" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Eagle%20Cinema%20Fantastico.png" group-title="Italy - Eagle Cinema",Eagle Cinema Fantastico
+http://worldtv.homeassistants.app/?v=113532
+#EXTINF:-1 tvg-id="eaglecinemafilminsala.it" tvg-name="Eagle Cinema Film in Sala" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Eagle%20Cinema%20Film%20in%20Sala.png" group-title="Italy - Eagle Cinema",Eagle Cinema Film in Sala
+http://worldtv.homeassistants.app/?v=113533
+#EXTINF:-1 tvg-id="eaglecinemahorror.it" tvg-name="Eagle Cinema Horror" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Eagle%20Cinema%20Horror.png" group-title="Italy - Eagle Cinema",Eagle Cinema Horror
+http://worldtv.homeassistants.app/?v=113534
+#EXTINF:-1 tvg-id="eaglecinemamarvel.it" tvg-name="Eagle Cinema Marvel" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Eagle%20Cinema%20Marvel.png" group-title="Italy - Eagle Cinema",Eagle Cinema Marvel
+http://worldtv.homeassistants.app/?v=113568
+#EXTINF:-1 tvg-id="eaglecinemamitologia.it" tvg-name="Eagle Cinema Mitologia" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Eagle%20Cinema%20Mitologia.png" group-title="Italy - Eagle Cinema",Eagle Cinema Mitologia
+http://worldtv.homeassistants.app/?v=113535
+#EXTINF:-1 tvg-id="eaglecinemapassione.it" tvg-name="Eagle Cinema Passione" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Eagle%20Cinema%20Passione.png" group-title="Italy - Eagle Cinema",Eagle Cinema Passione
+http://worldtv.homeassistants.app/?v=113536
+#EXTINF:-1 tvg-id="eaglecinemaprimavisione.it" tvg-name="Eagle Cinema Prima Visione" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Eagle%20Cinema%20Prima%20Visione.png" group-title="Italy - Eagle Cinema",Eagle Cinema Prima Visione
+http://worldtv.homeassistants.app/?v=113537
+#EXTINF:-1 tvg-id="eaglecinemareligion.it" tvg-name="Eagle Cinema Religion" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Eagle%20Cinema%20Religion.png" group-title="Italy - Eagle Cinema",Eagle Cinema Religion
+http://worldtv.homeassistants.app/?v=113538
+#EXTINF:-1 tvg-id="eaglecinemasorriso.it" tvg-name="Eagle Cinema Sorriso" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Eagle%20Cinema%20Sorriso.png" group-title="Italy - Eagle Cinema",Eagle Cinema Sorriso
+http://worldtv.homeassistants.app/?v=113539
+#EXTINF:-1 tvg-id="eaglecinemaspaghettiwestern.it" tvg-name="Eagle Cinema Spaghetti Western" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Eagle%20Cinema%20Spaghetti%20Western.png" group-title="Italy - Eagle Cinema",Eagle Cinema Spaghetti Western
+http://worldtv.homeassistants.app/?v=113540
+#EXTINF:-1 tvg-id="eaglecinemastorico.it" tvg-name="Eagle Cinema Storico" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Eagle%20Cinema%20Storico.png" group-title="Italy - Eagle Cinema",Eagle Cinema Storico
+http://worldtv.homeassistants.app/?v=113541
+#EXTINF:-1 tvg-id="eaglecinemathriller.it" tvg-name="Eagle Cinema Thriller" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Eagle%20Cinema%20Thriller.png" group-title="Italy - Eagle Cinema",Eagle Cinema Thriller
+http://worldtv.homeassistants.app/?v=113542
+#EXTINF:-1 tvg-id="eaglecinema.it" tvg-name="Eagle Cinema" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Eagle%20Cinema.png" group-title="Italy - Eagle Cinema",Eagle Cinema
+http://worldtv.homeassistants.app/?v=113543
+#EXTINF:-1 tvg-id="eaglecinemawestern.it" tvg-name="Eagle Cinema Western" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Eagle%20Cinema%20Western.png" group-title="Italy - Eagle Cinema",Eagle Cinema Western
+http://worldtv.homeassistants.app/?v=113544
+#EXTINF:-1 tvg-id="daznevent1.it" tvg-name="DAZN Event 1" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%201.png" group-title="Italy - DAZN Event",DAZN Event 1
+http://worldtv.homeassistants.app/?v=100016
+#EXTINF:-1 tvg-id="daznevent2.it" tvg-name="DAZN Event 2" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%202.png" group-title="Italy - DAZN Event",DAZN Event 2
+http://worldtv.homeassistants.app/?v=100017
+#EXTINF:-1 tvg-id="daznevent3.it" tvg-name="DAZN Event 3" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%203.png" group-title="Italy - DAZN Event",DAZN Event 3
+http://worldtv.homeassistants.app/?v=100018
+#EXTINF:-1 tvg-id="daznevent4.it" tvg-name="DAZN Event 4" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%204.png" group-title="Italy - DAZN Event",DAZN Event 4
+http://worldtv.homeassistants.app/?v=100019
+#EXTINF:-1 tvg-id="daznevent5.it" tvg-name="DAZN Event 5" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%205.png" group-title="Italy - DAZN Event",DAZN Event 5
+http://worldtv.homeassistants.app/?v=100020
+#EXTINF:-1 tvg-id="daznevent6.it" tvg-name="DAZN Event 6" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%206.png" group-title="Italy - DAZN Event",DAZN Event 6
+http://worldtv.homeassistants.app/?v=100021
+#EXTINF:-1 tvg-id="daznevent7.it" tvg-name="DAZN Event 7" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%207.png" group-title="Italy - DAZN Event",DAZN Event 7
+http://worldtv.homeassistants.app/?v=100022
+#EXTINF:-1 tvg-id="daznevent8.it" tvg-name="DAZN Event 8" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%208.png" group-title="Italy - DAZN Event",DAZN Event 8
+http://worldtv.homeassistants.app/?v=100023
+#EXTINF:-1 tvg-id="daznevent9.it" tvg-name="DAZN Event 9" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%209.png" group-title="Italy - DAZN Event",DAZN Event 9
+http://worldtv.homeassistants.app/?v=100024
+#EXTINF:-1 tvg-id="daznevent10.it" tvg-name="DAZN Event 10" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2010.png" group-title="Italy - DAZN Event",DAZN Event 10
+http://worldtv.homeassistants.app/?v=100025
+#EXTINF:-1 tvg-id="daznevent11.it" tvg-name="DAZN Event 11" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2011.png" group-title="Italy - DAZN Event",DAZN Event 11
+http://worldtv.homeassistants.app/?v=100026
+#EXTINF:-1 tvg-id="daznevent12.it" tvg-name="DAZN Event 12" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2012.png" group-title="Italy - DAZN Event",DAZN Event 12
+http://worldtv.homeassistants.app/?v=100027
+#EXTINF:-1 tvg-id="daznevent13.it" tvg-name="DAZN Event 13" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2013.png" group-title="Italy - DAZN Event",DAZN Event 13
+http://worldtv.homeassistants.app/?v=100028
+#EXTINF:-1 tvg-id="daznevent14.it" tvg-name="DAZN Event 14" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2014.png" group-title="Italy - DAZN Event",DAZN Event 14
+http://worldtv.homeassistants.app/?v=100029
+#EXTINF:-1 tvg-id="daznevent15.it" tvg-name="DAZN Event 15" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2015.png" group-title="Italy - DAZN Event",DAZN Event 15
+http://worldtv.homeassistants.app/?v=100030
+#EXTINF:-1 tvg-id="daznevent16.it" tvg-name="DAZN Event 16" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2016.png" group-title="Italy - DAZN Event",DAZN Event 16
+http://worldtv.homeassistants.app/?v=100031
+#EXTINF:-1 tvg-id="daznevent17.it" tvg-name="DAZN Event 17" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2017.png" group-title="Italy - DAZN Event",DAZN Event 17
+http://worldtv.homeassistants.app/?v=100032
+#EXTINF:-1 tvg-id="daznevent18.it" tvg-name="DAZN Event 18" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2018.png" group-title="Italy - DAZN Event",DAZN Event 18
+http://worldtv.homeassistants.app/?v=100033
+#EXTINF:-1 tvg-id="daznevent19.it" tvg-name="DAZN Event 19" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2019.png" group-title="Italy - DAZN Event",DAZN Event 19
+http://worldtv.homeassistants.app/?v=100034
+#EXTINF:-1 tvg-id="daznevent20.it" tvg-name="DAZN Event 20" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2020.png" group-title="Italy - DAZN Event",DAZN Event 20
+http://worldtv.homeassistants.app/?v=100035
+#EXTINF:-1 tvg-id="daznevent21.it" tvg-name="DAZN Event 21" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2021.png" group-title="Italy - DAZN Event",DAZN Event 21
+http://worldtv.homeassistants.app/?v=100036
+#EXTINF:-1 tvg-id="daznevent22.it" tvg-name="DAZN Event 22" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2022.png" group-title="Italy - DAZN Event",DAZN Event 22
+http://worldtv.homeassistants.app/?v=100037
+#EXTINF:-1 tvg-id="daznevent23.it" tvg-name="DAZN Event 23" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2023.png" group-title="Italy - DAZN Event",DAZN Event 23
+http://worldtv.homeassistants.app/?v=100038
+#EXTINF:-1 tvg-id="daznevent24.it" tvg-name="DAZN Event 24" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2024.png" group-title="Italy - DAZN Event",DAZN Event 24
+http://worldtv.homeassistants.app/?v=100039
+#EXTINF:-1 tvg-id="daznevent25.it" tvg-name="DAZN Event 25" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2025.png" group-title="Italy - DAZN Event",DAZN Event 25
+http://worldtv.homeassistants.app/?v=100040
+#EXTINF:-1 tvg-id="daznevent26.it" tvg-name="DAZN Event 26" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2026.png" group-title="Italy - DAZN Event",DAZN Event 26
+http://worldtv.homeassistants.app/?v=100041
+#EXTINF:-1 tvg-id="daznevent27.it" tvg-name="DAZN Event 27" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2027.png" group-title="Italy - DAZN Event",DAZN Event 27
+http://worldtv.homeassistants.app/?v=100042
+#EXTINF:-1 tvg-id="daznevent28.it" tvg-name="DAZN Event 28" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2028.png" group-title="Italy - DAZN Event",DAZN Event 28
+http://worldtv.homeassistants.app/?v=100043
+#EXTINF:-1 tvg-id="daznevent29.it" tvg-name="DAZN Event 29" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2029.png" group-title="Italy - DAZN Event",DAZN Event 29
+http://worldtv.homeassistants.app/?v=100044
+#EXTINF:-1 tvg-id="daznevent30.it" tvg-name="DAZN Event 30" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2030.png" group-title="Italy - DAZN Event",DAZN Event 30
+http://worldtv.homeassistants.app/?v=100045
+#EXTINF:-1 tvg-id="daznevent31.it" tvg-name="DAZN Event 31" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2031.png" group-title="Italy - DAZN Event",DAZN Event 31
+http://worldtv.homeassistants.app/?v=100046
+#EXTINF:-1 tvg-id="daznevent32.it" tvg-name="DAZN Event 32" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2032.png" group-title="Italy - DAZN Event",DAZN Event 32
+http://worldtv.homeassistants.app/?v=100047
+#EXTINF:-1 tvg-id="daznevent33.it" tvg-name="DAZN Event 33" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2033.png" group-title="Italy - DAZN Event",DAZN Event 33
+http://worldtv.homeassistants.app/?v=100048
+#EXTINF:-1 tvg-id="daznevent34.it" tvg-name="DAZN Event 34" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2034.png" group-title="Italy - DAZN Event",DAZN Event 34
+http://worldtv.homeassistants.app/?v=100049
+#EXTINF:-1 tvg-id="daznevent35.it" tvg-name="DAZN Event 35" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2035.png" group-title="Italy - DAZN Event",DAZN Event 35
+http://worldtv.homeassistants.app/?v=100050
+#EXTINF:-1 tvg-id="daznevent36.it" tvg-name="DAZN Event 36" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2036.png" group-title="Italy - DAZN Event",DAZN Event 36
+http://worldtv.homeassistants.app/?v=100051
+#EXTINF:-1 tvg-id="daznevent37.it" tvg-name="DAZN Event 37" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2037.png" group-title="Italy - DAZN Event",DAZN Event 37
+http://worldtv.homeassistants.app/?v=100052
+#EXTINF:-1 tvg-id="daznevent38.it" tvg-name="DAZN Event 38" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2038.png" group-title="Italy - DAZN Event",DAZN Event 38
+http://worldtv.homeassistants.app/?v=100053
+#EXTINF:-1 tvg-id="daznevent39.it" tvg-name="DAZN Event 39" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2039.png" group-title="Italy - DAZN Event",DAZN Event 39
+http://worldtv.homeassistants.app/?v=100054
+#EXTINF:-1 tvg-id="daznevent40.it" tvg-name="DAZN Event 40" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2040.png" group-title="Italy - DAZN Event",DAZN Event 40
+http://worldtv.homeassistants.app/?v=100055
+#EXTINF:-1 tvg-id="daznevent41.it" tvg-name="DAZN Event 41" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2041.png" group-title="Italy - DAZN Event",DAZN Event 41
+http://worldtv.homeassistants.app/?v=100056
+#EXTINF:-1 tvg-id="daznevent42.it" tvg-name="DAZN Event 42" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2042.png" group-title="Italy - DAZN Event",DAZN Event 42
+http://worldtv.homeassistants.app/?v=100057
+#EXTINF:-1 tvg-id="daznevent43.it" tvg-name="DAZN Event 43" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2043.png" group-title="Italy - DAZN Event",DAZN Event 43
+http://worldtv.homeassistants.app/?v=100058
+#EXTINF:-1 tvg-id="daznevent44.it" tvg-name="DAZN Event 44" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2044.png" group-title="Italy - DAZN Event",DAZN Event 44
+http://worldtv.homeassistants.app/?v=100059
+#EXTINF:-1 tvg-id="daznevent45.it" tvg-name="DAZN Event 45" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2045.png" group-title="Italy - DAZN Event",DAZN Event 45
+http://worldtv.homeassistants.app/?v=100060
+#EXTINF:-1 tvg-id="daznevent46.it" tvg-name="DAZN Event 46" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2046.png" group-title="Italy - DAZN Event",DAZN Event 46
+http://worldtv.homeassistants.app/?v=100061
+#EXTINF:-1 tvg-id="daznevent47.it" tvg-name="DAZN Event 47" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2047.png" group-title="Italy - DAZN Event",DAZN Event 47
+http://worldtv.homeassistants.app/?v=100062
+#EXTINF:-1 tvg-id="daznevent48.it" tvg-name="DAZN Event 48" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2048.png" group-title="Italy - DAZN Event",DAZN Event 48
+http://worldtv.homeassistants.app/?v=100063
+#EXTINF:-1 tvg-id="daznevent49.it" tvg-name="DAZN Event 49" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2049.png" group-title="Italy - DAZN Event",DAZN Event 49
+http://worldtv.homeassistants.app/?v=100064
+#EXTINF:-1 tvg-id="daznevent50.it" tvg-name="DAZN Event 50" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DAZN%20Event%2050.png" group-title="Italy - DAZN Event",DAZN Event 50
+http://worldtv.homeassistants.app/?v=100065
+#EXTINF:-1 tvg-id="dcslegendsoftomorrow.it" tvg-name="DC's Legends of Tomorrow" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DC's%20Legends%20of%20Tomorrow.png" group-title="Italy - Serie TV",DC's Legends of Tomorrow
+http://worldtv.homeassistants.app/?v=113546
+#EXTINF:-1 tvg-id="gomorrastagione1.it" tvg-name="Gomorra [Stagione 1]" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Gomorra%20%5BStagione%201%5D.png" group-title="Italy - Serie TV",Gomorra [Stagione 1]
+http://worldtv.homeassistants.app/?v=113555
+#EXTINF:-1 tvg-id="gomorrastagione2.it" tvg-name="Gomorra [Stagione 2]" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Gomorra%20%5BStagione%202%5D.png" group-title="Italy - Serie TV",Gomorra [Stagione 2]
+http://worldtv.homeassistants.app/?v=113556
+#EXTINF:-1 tvg-id="gomorrastagione3.it" tvg-name="Gomorra [Stagione 3]" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Gomorra%20%5BStagione%203%5D.png" group-title="Italy - Serie TV",Gomorra [Stagione 3]
+http://worldtv.homeassistants.app/?v=113557
+#EXTINF:-1 tvg-id="gomorrastagione4.it" tvg-name="Gomorra [Stagione 4]" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Gomorra%20%5BStagione%204%5D.png" group-title="Italy - Serie TV",Gomorra [Stagione 4]
+http://worldtv.homeassistants.app/?v=113558
+#EXTINF:-1 tvg-id="gomorrastagione5.it" tvg-name="Gomorra [Stagione 5]" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Gomorra%20%5BStagione%205%5D.png" group-title="Italy - Serie TV",Gomorra [Stagione 5]
+http://worldtv.homeassistants.app/?v=113559
+#EXTINF:-1 tvg-id="icarly.it" tvg-name="iCarly" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/iCarly.png" group-title="Italy - Serie TV",iCarly
+http://worldtv.homeassistants.app/?v=53656
+#EXTINF:-1 tvg-id="ilcapodeicapi.it" tvg-name="Il Capo Dei Capi" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Il%20Capo%20Dei%20Capi.png" group-title="Italy - Serie TV",Il Capo Dei Capi
+http://worldtv.homeassistants.app/?v=113560
+#EXTINF:-1 tvg-id="lupin.it" tvg-name="Lupin" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Lupin.png" group-title="Italy - Serie TV",Lupin
+http://worldtv.homeassistants.app/?v=113567
+#EXTINF:-1 tvg-id="giallo.it" tvg-name="GIALLO" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/GIALLO.png" group-title="Italy - Serie TV",GIALLO
+http://worldtv.homeassistants.app/?v=53403
+#EXTINF:-1 tvg-id="italia2.it" tvg-name="ITALIA 2" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/ITALIA%202.png" group-title="Italy - Serie TV",ITALIA 2
+http://worldtv.homeassistants.app/?v=53416
+#EXTINF:-1 tvg-id="la5.it" tvg-name="LA5" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/LA5.png" group-title="Italy - Serie TV",LA5
+http://worldtv.homeassistants.app/?v=53423
+#EXTINF:-1 tvg-id="rai4.it" tvg-name="RAI 4" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/RAI%204.png" group-title="Italy - Serie TV",RAI 4
+http://worldtv.homeassistants.app/?v=53578
+#EXTINF:-1 tvg-id="raipremium.it" tvg-name="RAI PREMIUM" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/RAI%20PREMIUM.png" group-title="Italy - Serie TV",RAI PREMIUM
+http://worldtv.homeassistants.app/?v=53585
+#EXTINF:-1 tvg-id="skyatlantic1.it" tvg-name="SKY ATLANTIC +1" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20ATLANTIC%20%2B1.png" group-title="Italy - Serie TV",SKY ATLANTIC +1
+http://worldtv.homeassistants.app/?v=53602
+#EXTINF:-1 tvg-id="skyatlantic.it" tvg-name="SKY ATLANTIC" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20ATLANTIC.png" group-title="Italy - Serie TV",SKY ATLANTIC
+http://worldtv.homeassistants.app/?v=53603
+#EXTINF:-1 tvg-id="skyserie.it" tvg-name="SKY SERIE" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20SERIE.png" group-title="Italy - Serie TV",SKY SERIE
+http://worldtv.homeassistants.app/?v=53666
+#EXTINF:-1 tvg-id="topcrime.it" tvg-name="TOP CRIME" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/TOP%20CRIME.png" group-title="Italy - Serie TV",TOP CRIME
+http://worldtv.homeassistants.app/?v=53705
+#EXTINF:-1 tvg-id="euronews.it" tvg-name="EURONEWS" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/EURONEWS.png" group-title="Italy - Notizie",EURONEWS
+http://worldtv.homeassistants.app/?v=53393
+#EXTINF:-1 tvg-id="rainews24.it" tvg-name="RAI NEWS 24" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/RAI%20NEWS%2024.png" group-title="Italy - Notizie",RAI NEWS 24
+http://worldtv.homeassistants.app/?v=53584
+#EXTINF:-1 tvg-id="skytg24.it" tvg-name="SKY TG 24" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20TG%2024.png" group-title="Italy - Notizie",SKY TG 24
+http://worldtv.homeassistants.app/?v=53693
+#EXTINF:-1 tvg-id="tgnorba24.it" tvg-name="TG NORBA 24" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/TG%20NORBA%2024.png" group-title="Italy - Notizie",TG NORBA 24
+http://worldtv.homeassistants.app/?v=53702
+#EXTINF:-1 tvg-id="tgcom24.it" tvg-name="TGCOM 24" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/TGCOM%2024.png" group-title="Italy - Notizie",TGCOM 24
+http://worldtv.homeassistants.app/?v=53703
+#EXTINF:-1 tvg-id="deejaytv.it" tvg-name="DEEJAY TV" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DEEJAY%20TV.png" group-title="Italy - Musica",DEEJAY TV
+http://worldtv.homeassistants.app/?v=53379
+#EXTINF:-1 tvg-id="mtv.it" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/MTV.png" group-title="Italy - Musica",MTV
+http://worldtv.homeassistants.app/?v=53552
+#EXTINF:-1 tvg-id="radioitaliatv.it" tvg-name="Radio Italia TV" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Radio%20Italia%20TV.png" group-title="Italy - Musica",Radio Italia TV
+http://worldtv.homeassistants.app/?v=53571
+#EXTINF:-1 tvg-id="rtl1025tv.it" tvg-name="RTL 102.5 TV" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/RTL%20102.5%20TV.png" group-title="Italy - Musica",RTL 102.5 TV
+http://worldtv.homeassistants.app/?v=53599
+#EXTINF:-1 tvg-id="skyclassica.it" tvg-name="SKY CLASSICA" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20CLASSICA.png" group-title="Italy - Musica",SKY CLASSICA
+http://worldtv.homeassistants.app/?v=53643
+#EXTINF:-1 tvg-id="nationalgeographic.it" tvg-name="National Geographic" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/National%20Geographic.png" group-title="Italy - Eagle Cultura",National Geographic
+http://worldtv.homeassistants.app/?v=113571
+#EXTINF:-1 tvg-id="nationalgeographicplus.it" tvg-name="National Geographic Plus" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/National%20Geographic%20Plus.png" group-title="Italy - Eagle Cultura",National Geographic Plus
+http://worldtv.homeassistants.app/?v=113572
+#EXTINF:-1 tvg-id="skyprimafila1.it" tvg-name="SKY PRIMAFILA 1" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20PRIMAFILA%201.png" group-title="Italy - Primafila",SKY PRIMAFILA 1
+http://worldtv.homeassistants.app/?v=53652
+#EXTINF:-1 tvg-id="skyprimafila2.it" tvg-name="SKY PRIMAFILA 2" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20PRIMAFILA%202.png" group-title="Italy - Primafila",SKY PRIMAFILA 2
+http://worldtv.homeassistants.app/?v=53659
+#EXTINF:-1 tvg-id="skyprimafila3.it" tvg-name="SKY PRIMAFILA 3" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20PRIMAFILA%203.png" group-title="Italy - Primafila",SKY PRIMAFILA 3
+http://worldtv.homeassistants.app/?v=53660
+#EXTINF:-1 tvg-id="skyprimafila4.it" tvg-name="SKY PRIMAFILA 4" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20PRIMAFILA%204.png" group-title="Italy - Primafila",SKY PRIMAFILA 4
+http://worldtv.homeassistants.app/?v=53661
+#EXTINF:-1 tvg-id="skyprimafila5.it" tvg-name="SKY PRIMAFILA 5" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20PRIMAFILA%205.png" group-title="Italy - Primafila",SKY PRIMAFILA 5
+http://worldtv.homeassistants.app/?v=53662
+#EXTINF:-1 tvg-id="skyprimafila6.it" tvg-name="SKY PRIMAFILA 6" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20PRIMAFILA%206.png" group-title="Italy - Primafila",SKY PRIMAFILA 6
+http://worldtv.homeassistants.app/?v=53663
+#EXTINF:-1 tvg-id="skyprimafila7.it" tvg-name="SKY PRIMAFILA 7" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20PRIMAFILA%207.png" group-title="Italy - Primafila",SKY PRIMAFILA 7
+http://worldtv.homeassistants.app/?v=53664
+#EXTINF:-1 tvg-id="skyprimafila8.it" tvg-name="SKY PRIMAFILA 8" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20PRIMAFILA%208.png" group-title="Italy - Primafila",SKY PRIMAFILA 8
+http://worldtv.homeassistants.app/?v=53665
+#EXTINF:-1 tvg-id="skyprimafila9.it" tvg-name="SKY PRIMAFILA 9" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20PRIMAFILA%209.png" group-title="Italy - Primafila",SKY PRIMAFILA 9
+http://worldtv.homeassistants.app/?v=53653
+#EXTINF:-1 tvg-id="skyprimafila10.it" tvg-name="SKY PRIMAFILA 10" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20PRIMAFILA%2010.png" group-title="Italy - Primafila",SKY PRIMAFILA 10
+http://worldtv.homeassistants.app/?v=53654
+#EXTINF:-1 tvg-id="skyprimafila11.it" tvg-name="SKY PRIMAFILA 11" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20PRIMAFILA%2011.png" group-title="Italy - Primafila",SKY PRIMAFILA 11
+http://worldtv.homeassistants.app/?v=53655
+#EXTINF:-1 tvg-id="skyprimafila12.it" tvg-name="SKY PRIMAFILA 12" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20PRIMAFILA%2012.png" group-title="Italy - Primafila",SKY PRIMAFILA 12
+http://worldtv.homeassistants.app/?v=53657
+#EXTINF:-1 tvg-id="skyprimafila13.it" tvg-name="SKY PRIMAFILA 13" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20PRIMAFILA%2013.png" group-title="Italy - Primafila",SKY PRIMAFILA 13
+http://worldtv.homeassistants.app/?v=53658
+#EXTINF:-1 tvg-id="skyprimafila14.it" tvg-name="SKY PRIMAFILA 14" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20PRIMAFILA%2014.png" group-title="Italy - Primafila",SKY PRIMAFILA 14
+http://worldtv.homeassistants.app/?v=53563
+#EXTINF:-1 tvg-id="skyprimafila15.it" tvg-name="SKY PRIMAFILA 15" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20PRIMAFILA%2015.png" group-title="Italy - Primafila",SKY PRIMAFILA 15
+http://worldtv.homeassistants.app/?v=53564
+#EXTINF:-1 tvg-id="skyprimafila16.it" tvg-name="SKY PRIMAFILA 16" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20PRIMAFILA%2016.png" group-title="Italy - Primafila",SKY PRIMAFILA 16
+http://worldtv.homeassistants.app/?v=53565
+#EXTINF:-1 tvg-id="skyprimafila17.it" tvg-name="SKY PRIMAFILA 17" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20PRIMAFILA%2017.png" group-title="Italy - Primafila",SKY PRIMAFILA 17
+http://worldtv.homeassistants.app/?v=53566
+#EXTINF:-1 tvg-id="skyprimafila18.it" tvg-name="SKY PRIMAFILA 18" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20PRIMAFILA%2018.png" group-title="Italy - Primafila",SKY PRIMAFILA 18
+http://worldtv.homeassistants.app/?v=53567
+#EXTINF:-1 tvg-id="skyprimafila19.it" tvg-name="SKY PRIMAFILA 19" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20PRIMAFILA%2019.png" group-title="Italy - Primafila",SKY PRIMAFILA 19
+http://worldtv.homeassistants.app/?v=53568
+#EXTINF:-1 tvg-id="skyprimafila20.it" tvg-name="SKY PRIMAFILA 20" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/SKY%20PRIMAFILA%2020.png" group-title="Italy - Primafila",SKY PRIMAFILA 20
+http://worldtv.homeassistants.app/?v=53569
+#EXTINF:-1 tvg-id="amazonprime1.it" tvg-name="AMAZON PRIME 1" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/AMAZON%20PRIME%201.png" group-title="Italy - Amazon Prime",AMAZON PRIME 1
+http://worldtv.homeassistants.app/?v=59464
+#EXTINF:-1 tvg-id="amazonprime10.it" tvg-name="AMAZON PRIME 10" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/AMAZON%20PRIME%2010.png" group-title="Italy - Amazon Prime",AMAZON PRIME 10
+http://worldtv.homeassistants.app/?v=59473
+#EXTINF:-1 tvg-id="amazonprime11.it" tvg-name="AMAZON PRIME 11" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/AMAZON%20PRIME%2011.png" group-title="Italy - Amazon Prime",AMAZON PRIME 11
+http://worldtv.homeassistants.app/?v=59474
+#EXTINF:-1 tvg-id="amazonprime12.it" tvg-name="AMAZON PRIME 12" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/AMAZON%20PRIME%2012.png" group-title="Italy - Amazon Prime",AMAZON PRIME 12
+http://worldtv.homeassistants.app/?v=59475
+#EXTINF:-1 tvg-id="amazonprime13.it" tvg-name="AMAZON PRIME 13" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/AMAZON%20PRIME%2013.png" group-title="Italy - Amazon Prime",AMAZON PRIME 13
+http://worldtv.homeassistants.app/?v=59476
+#EXTINF:-1 tvg-id="amazonprime14.it" tvg-name="AMAZON PRIME 14" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/AMAZON%20PRIME%2014.png" group-title="Italy - Amazon Prime",AMAZON PRIME 14
+http://worldtv.homeassistants.app/?v=59477
+#EXTINF:-1 tvg-id="amazonprime15.it" tvg-name="AMAZON PRIME 15" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/AMAZON%20PRIME%2015.png" group-title="Italy - Amazon Prime",AMAZON PRIME 15
+http://worldtv.homeassistants.app/?v=59478
+#EXTINF:-1 tvg-id="amazonprime16.it" tvg-name="AMAZON PRIME 16" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/AMAZON%20PRIME%2016.png" group-title="Italy - Amazon Prime",AMAZON PRIME 16
+http://worldtv.homeassistants.app/?v=59479
+#EXTINF:-1 tvg-id="amazonprime17.it" tvg-name="AMAZON PRIME 17" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/AMAZON%20PRIME%2017.png" group-title="Italy - Amazon Prime",AMAZON PRIME 17
+http://worldtv.homeassistants.app/?v=59480
+#EXTINF:-1 tvg-id="amazonprime18.it" tvg-name="AMAZON PRIME 18" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/AMAZON%20PRIME%2018.png" group-title="Italy - Amazon Prime",AMAZON PRIME 18
+http://worldtv.homeassistants.app/?v=59481
+#EXTINF:-1 tvg-id="amazonprime2.it" tvg-name="AMAZON PRIME 2" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/AMAZON%20PRIME%202.png" group-title="Italy - Amazon Prime",AMAZON PRIME 2
+http://worldtv.homeassistants.app/?v=59465
+#EXTINF:-1 tvg-id="amazonprime3.it" tvg-name="AMAZON PRIME 3" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/AMAZON%20PRIME%203.png" group-title="Italy - Amazon Prime",AMAZON PRIME 3
+http://worldtv.homeassistants.app/?v=59466
+#EXTINF:-1 tvg-id="amazonprime4.it" tvg-name="AMAZON PRIME 4" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/AMAZON%20PRIME%204.png" group-title="Italy - Amazon Prime",AMAZON PRIME 4
+http://worldtv.homeassistants.app/?v=59467
+#EXTINF:-1 tvg-id="amazonprime5.it" tvg-name="AMAZON PRIME 5" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/AMAZON%20PRIME%205.png" group-title="Italy - Amazon Prime",AMAZON PRIME 5
+http://worldtv.homeassistants.app/?v=59468
+#EXTINF:-1 tvg-id="amazonprime6.it" tvg-name="AMAZON PRIME 6" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/AMAZON%20PRIME%206.png" group-title="Italy - Amazon Prime",AMAZON PRIME 6
+http://worldtv.homeassistants.app/?v=59469
+#EXTINF:-1 tvg-id="amazonprime7.it" tvg-name="AMAZON PRIME 7" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/AMAZON%20PRIME%207.png" group-title="Italy - Amazon Prime",AMAZON PRIME 7
+http://worldtv.homeassistants.app/?v=59470
+#EXTINF:-1 tvg-id="amazonprime8.it" tvg-name="AMAZON PRIME 8" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/AMAZON%20PRIME%208.png" group-title="Italy - Amazon Prime",AMAZON PRIME 8
+http://worldtv.homeassistants.app/?v=59471
+#EXTINF:-1 tvg-id="amazonprime9.it" tvg-name="AMAZON PRIME 9" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/AMAZON%20PRIME%209.png" group-title="Italy - Amazon Prime",AMAZON PRIME 9
+http://worldtv.homeassistants.app/?v=59472
+#EXTINF:-1 tvg-id="adrianocelentanocollection.it" tvg-name="Adriano Celentano Collection" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Adriano%20Celentano%20Collection.png" group-title="Italy - Eagle Collection Italia",Adriano Celentano Collection
+http://worldtv.homeassistants.app/?v=113510
+#EXTINF:-1 tvg-id="albertosordicollection.it" tvg-name="Alberto Sordi Collection" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Alberto%20Sordi%20Collection.png" group-title="Italy - Eagle Collection Italia",Alberto Sordi Collection
+http://worldtv.homeassistants.app/?v=113511
+#EXTINF:-1 tvg-id="aldogiovanniegiacomocollection.it" tvg-name="Aldo Giovanni e Giacomo Collection" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Aldo%20Giovanni%20e%20Giacomo%20Collection.png" group-title="Italy - Eagle Collection Italia",Aldo Giovanni e Giacomo Collection
+http://worldtv.homeassistants.app/?v=113512
+#EXTINF:-1 tvg-id="alessandrosianicollection.it" tvg-name="Alessandro Siani Collection" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Alessandro%20Siani%20Collection.png" group-title="Italy - Eagle Collection Italia",Alessandro Siani Collection
+http://worldtv.homeassistants.app/?v=113513
+#EXTINF:-1 tvg-id="alvarovitalicollection.it" tvg-name="Alvaro Vitali Collection" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Alvaro%20Vitali%20Collection.png" group-title="Italy - Eagle Collection Italia",Alvaro Vitali Collection
+http://worldtv.homeassistants.app/?v=113514
+#EXTINF:-1 tvg-id="budspencerterencehillcollection.it" tvg-name="Bud Spencer & Terence Hill Collection" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Bud%20Spencer%20%26%20Terence%20Hill%20Collection.png" group-title="Italy - Eagle Collection Italia",Bud Spencer & Terence Hill Collection
+http://worldtv.homeassistants.app/?v=113526
+#EXTINF:-1 tvg-id="carloverdonecollection.it" tvg-name="Carlo Verdone Collection" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Carlo%20Verdone%20Collection.png" group-title="Italy - Eagle Collection Italia",Carlo Verdone Collection
+http://worldtv.homeassistants.app/?v=113518
+#EXTINF:-1 tvg-id="checcozalonecollection.it" tvg-name="Checco Zalone Collection" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Checco%20Zalone%20Collection.png" group-title="Italy - Eagle Collection Italia",Checco Zalone Collection
+http://worldtv.homeassistants.app/?v=113519
+#EXTINF:-1 tvg-id="christiandesicacollection.it" tvg-name="Christian De Sica Collection" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Christian%20De%20Sica%20Collection.png" group-title="Italy - Eagle Collection Italia",Christian De Sica Collection
+http://worldtv.homeassistants.app/?v=113520
+#EXTINF:-1 tvg-id="diegoabatantuonocollection.it" tvg-name="Diego Abatantuono Collection" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Diego%20Abatantuono%20Collection.png" group-title="Italy - Eagle Collection Italia",Diego Abatantuono Collection
+http://worldtv.homeassistants.app/?v=113547
+#EXTINF:-1 tvg-id="fantozzicollection.it" tvg-name="Fantozzi Collection" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Fantozzi%20Collection.png" group-title="Italy - Eagle Collection Italia",Fantozzi Collection
+http://worldtv.homeassistants.app/?v=113551
+#EXTINF:-1 tvg-id="francoecicciocollection.it" tvg-name="Franco e Ciccio Collection" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Franco%20e%20Ciccio%20Collection.png" group-title="Italy - Eagle Collection Italia",Franco e Ciccio Collection
+http://worldtv.homeassistants.app/?v=113553
+#EXTINF:-1 tvg-id="gigiproietticollection.it" tvg-name="Gigi Proietti Collection" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Gigi%20Proietti%20Collection.png" group-title="Italy - Eagle Collection Italia",Gigi Proietti Collection
+http://worldtv.homeassistants.app/?v=113554
+#EXTINF:-1 tvg-id="massimotroisicollection.it" tvg-name="Massimo Troisi Collection" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Massimo%20Troisi%20Collection.png" group-title="Italy - Eagle Collection Italia",Massimo Troisi Collection
+http://worldtv.homeassistants.app/?v=113570
+#EXTINF:-1 tvg-id="ninodangelocollection.it" tvg-name="Nino D'Angelo Collection" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Nino%20D'Angelo%20Collection.png" group-title="Italy - Eagle Collection Italia",Nino D'Angelo Collection
+http://worldtv.homeassistants.app/?v=113573
+#EXTINF:-1 tvg-id="paolovillagiocollection.it" tvg-name="Paolo Villagio Collection" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Paolo%20Villagio%20Collection.png" group-title="Italy - Eagle Collection Italia",Paolo Villagio Collection
+http://worldtv.homeassistants.app/?v=113574
+#EXTINF:-1 tvg-id="dcslegendsoftomorrow.it" tvg-name="DC's Legends of Tomorrow" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/DC's%20Legends%20of%20Tomorrow.png" group-title="Italy - Eagle Serie TV",DC's Legends of Tomorrow
+http://worldtv.homeassistants.app/?v=113546
+#EXTINF:-1 tvg-id="gomorrastagione1.it" tvg-name="Gomorra [Stagione 1]" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Gomorra%20%5BStagione%201%5D.png" group-title="Italy - Eagle Serie TV",Gomorra [Stagione 1]
+http://worldtv.homeassistants.app/?v=113555
+#EXTINF:-1 tvg-id="gomorrastagione2.it" tvg-name="Gomorra [Stagione 2]" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Gomorra%20%5BStagione%202%5D.png" group-title="Italy - Eagle Serie TV",Gomorra [Stagione 2]
+http://worldtv.homeassistants.app/?v=113556
+#EXTINF:-1 tvg-id="gomorrastagione3.it" tvg-name="Gomorra [Stagione 3]" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Gomorra%20%5BStagione%203%5D.png" group-title="Italy - Eagle Serie TV",Gomorra [Stagione 3]
+http://worldtv.homeassistants.app/?v=113557
+#EXTINF:-1 tvg-id="gomorrastagione4.it" tvg-name="Gomorra [Stagione 4]" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Gomorra%20%5BStagione%204%5D.png" group-title="Italy - Eagle Serie TV",Gomorra [Stagione 4]
+http://worldtv.homeassistants.app/?v=113558
+#EXTINF:-1 tvg-id="gomorrastagione5.it" tvg-name="Gomorra [Stagione 5]" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Gomorra%20%5BStagione%205%5D.png" group-title="Italy - Eagle Serie TV",Gomorra [Stagione 5]
+http://worldtv.homeassistants.app/?v=113559
+#EXTINF:-1 tvg-id="icarly.it" tvg-name="iCarly" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/iCarly.png" group-title="Italy - Eagle Serie TV",iCarly
+http://worldtv.homeassistants.app/?v=53656
+#EXTINF:-1 tvg-id="ilcapodeicapi.it" tvg-name="Il Capo Dei Capi" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Il%20Capo%20Dei%20Capi.png" group-title="Italy - Eagle Serie TV",Il Capo Dei Capi
+http://worldtv.homeassistants.app/?v=113560
+#EXTINF:-1 tvg-id="lupin.it" tvg-name="Lupin" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Lupin.png" group-title="Italy - Eagle Serie TV",Lupin
+http://worldtv.homeassistants.app/?v=113567
+#EXTINF:-1 tvg-id="americandad.it" tvg-name="American Dad" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/American%20Dad.png" group-title="Italy - Eagle Serie Animate",American Dad
+http://worldtv.homeassistants.app/?v=113515
+#EXTINF:-1 tvg-id="brickleberry.it" tvg-name="Brickleberry" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Brickleberry.png" group-title="Italy - Eagle Serie Animate",Brickleberry
+http://worldtv.homeassistants.app/?v=113517
+#EXTINF:-1 tvg-id="dragonballz.it" tvg-name="Dragon Ball Z" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Dragon%20Ball%20Z.png" group-title="Italy - Eagle Serie Animate",Dragon Ball Z
+http://worldtv.homeassistants.app/?v=113549
+#EXTINF:-1 tvg-id="igriffin.it" tvg-name="I Griffin" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/I%20Griffin.png" group-title="Italy - Eagle Serie Animate",I Griffin
+http://worldtv.homeassistants.app/?v=113576
+#EXTINF:-1 tvg-id="scoobydoo.it" tvg-name="Scooby-Doo" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Scooby-Doo.png" group-title="Italy - Eagle Serie Animate",Scooby-Doo
+http://worldtv.homeassistants.app/?v=113577
+#EXTINF:-1 tvg-id="theclevelandshow.it" tvg-name="The Cleveland Show" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/The%20Cleveland%20Show.png" group-title="Italy - Eagle Serie Animate",The Cleveland Show
+http://worldtv.homeassistants.app/?v=113579
+#EXTINF:-1 tvg-id="atalanta.it" tvg-name="Atalanta" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Atalanta.png" group-title="Italy - Serie A",Atalanta
+http://worldtv.homeassistants.app/?v=97834
+#EXTINF:-1 tvg-id="bologna.it" tvg-name="Bologna" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Bologna.png" group-title="Italy - Serie A",Bologna
+http://worldtv.homeassistants.app/?v=97833
+#EXTINF:-1 tvg-id="cagliari.it" tvg-name="Cagliari" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Cagliari.png" group-title="Italy - Serie A",Cagliari
+http://worldtv.homeassistants.app/?v=97832
+#EXTINF:-1 tvg-id="como.it" tvg-name="Como" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Como.png" group-title="Italy - Serie A",Como
+http://worldtv.homeassistants.app/?v=97831
+#EXTINF:-1 tvg-id="empoli.it" tvg-name="Empoli" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Empoli.png" group-title="Italy - Serie A",Empoli
+http://worldtv.homeassistants.app/?v=97830
+#EXTINF:-1 tvg-id="fiorentina.it" tvg-name="Fiorentina" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Fiorentina.png" group-title="Italy - Serie A",Fiorentina
+http://worldtv.homeassistants.app/?v=97829
+#EXTINF:-1 tvg-id="genoa.it" tvg-name="Genoa" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Genoa.png" group-title="Italy - Serie A",Genoa
+http://worldtv.homeassistants.app/?v=97828
+#EXTINF:-1 tvg-id="hellasverona.it" tvg-name="Hellas Verona" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Hellas%20Verona.png" group-title="Italy - Serie A",Hellas Verona
+http://worldtv.homeassistants.app/?v=97827
+#EXTINF:-1 tvg-id="inter.it" tvg-name="Inter" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Inter.png" group-title="Italy - Serie A",Inter
+http://worldtv.homeassistants.app/?v=97826
+#EXTINF:-1 tvg-id="juventus.it" tvg-name="Juventus" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Juventus.png" group-title="Italy - Serie A",Juventus
+http://worldtv.homeassistants.app/?v=97825
+#EXTINF:-1 tvg-id="lazio.it" tvg-name="Lazio" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Lazio.png" group-title="Italy - Serie A",Lazio
+http://worldtv.homeassistants.app/?v=97824
+#EXTINF:-1 tvg-id="lecce.it" tvg-name="Lecce" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Lecce.png" group-title="Italy - Serie A",Lecce
+http://worldtv.homeassistants.app/?v=97823
+#EXTINF:-1 tvg-id="milan.it" tvg-name="Milan" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Milan.png" group-title="Italy - Serie A",Milan
+http://worldtv.homeassistants.app/?v=97835
+#EXTINF:-1 tvg-id="monza.it" tvg-name="Monza" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Monza.png" group-title="Italy - Serie A",Monza
+http://worldtv.homeassistants.app/?v=97822
+#EXTINF:-1 tvg-id="napoli.it" tvg-name="Napoli" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Napoli.png" group-title="Italy - Serie A",Napoli
+http://worldtv.homeassistants.app/?v=97821
+#EXTINF:-1 tvg-id="parma.it" tvg-name="Parma" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Parma.png" group-title="Italy - Serie A",Parma
+http://worldtv.homeassistants.app/?v=97820
+#EXTINF:-1 tvg-id="roma.it" tvg-name="Roma" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Roma.png" group-title="Italy - Serie A",Roma
+http://worldtv.homeassistants.app/?v=97819
+#EXTINF:-1 tvg-id="torino.it" tvg-name="Torino" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Torino.png" group-title="Italy - Serie A",Torino
+http://worldtv.homeassistants.app/?v=97818
+#EXTINF:-1 tvg-id="udinese.it" tvg-name="Udinese" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Udinese.png" group-title="Italy - Serie A",Udinese
+http://worldtv.homeassistants.app/?v=97817
+#EXTINF:-1 tvg-id="venezia.it" tvg-name="Venezia" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Venezia.png" group-title="Italy - Serie A",Venezia
+http://worldtv.homeassistants.app/?v=97816
+#EXTINF:-1 tvg-id="zonaseriea.it" tvg-name="Zona Serie A" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Zona%20Serie%20A.png" group-title="Italy - Serie A",Zona Serie A
+http://worldtv.homeassistants.app/?v=101627
+#EXTINF:-1 tvg-id="adrianocelentanocollection.it" tvg-name="Adriano Celentano Collection" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Adriano%20Celentano%20Collection.png" group-title="Italy - Eagle Collection",Adriano Celentano Collection
+http://worldtv.homeassistants.app/?v=113510
+#EXTINF:-1 tvg-id="albertosordicollection.it" tvg-name="Alberto Sordi Collection" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Alberto%20Sordi%20Collection.png" group-title="Italy - Eagle Collection",Alberto Sordi Collection
+http://worldtv.homeassistants.app/?v=113511
+#EXTINF:-1 tvg-id="aldogiovanniegiacomocollection.it" tvg-name="Aldo Giovanni e Giacomo Collection" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Aldo%20Giovanni%20e%20Giacomo%20Collection.png" group-title="Italy - Eagle Collection",Aldo Giovanni e Giacomo Collection
+http://worldtv.homeassistants.app/?v=113512
+#EXTINF:-1 tvg-id="alessandrosianicollection.it" tvg-name="Alessandro Siani Collection" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Alessandro%20Siani%20Collection.png" group-title="Italy - Eagle Collection",Alessandro Siani Collection
+http://worldtv.homeassistants.app/?v=113513
+#EXTINF:-1 tvg-id="alvarovitalicollection.it" tvg-name="Alvaro Vitali Collection" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Alvaro%20Vitali%20Collection.png" group-title="Italy - Eagle Collection",Alvaro Vitali Collection
+http://worldtv.homeassistants.app/?v=113514
+#EXTINF:-1 tvg-id="budspencerterencehillcollection.it" tvg-name="Bud Spencer & Terence Hill Collection" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Bud%20Spencer%20%26%20Terence%20Hill%20Collection.png" group-title="Italy - Eagle Collection",Bud Spencer & Terence Hill Collection
+http://worldtv.homeassistants.app/?v=113526
+#EXTINF:-1 tvg-id="carloverdonecollection.it" tvg-name="Carlo Verdone Collection" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Carlo%20Verdone%20Collection.png" group-title="Italy - Eagle Collection",Carlo Verdone Collection
+http://worldtv.homeassistants.app/?v=113518
+#EXTINF:-1 tvg-id="checcozalonecollection.it" tvg-name="Checco Zalone Collection" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Checco%20Zalone%20Collection.png" group-title="Italy - Eagle Collection",Checco Zalone Collection
+http://worldtv.homeassistants.app/?v=113519
+#EXTINF:-1 tvg-id="christiandesicacollection.it" tvg-name="Christian De Sica Collection" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Christian%20De%20Sica%20Collection.png" group-title="Italy - Eagle Collection",Christian De Sica Collection
+http://worldtv.homeassistants.app/?v=113520
+#EXTINF:-1 tvg-id="diegoabatantuonocollection.it" tvg-name="Diego Abatantuono Collection" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Diego%20Abatantuono%20Collection.png" group-title="Italy - Eagle Collection",Diego Abatantuono Collection
+http://worldtv.homeassistants.app/?v=113547
+#EXTINF:-1 tvg-id="fantozzicollection.it" tvg-name="Fantozzi Collection" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Fantozzi%20Collection.png" group-title="Italy - Eagle Collection",Fantozzi Collection
+http://worldtv.homeassistants.app/?v=113551
+#EXTINF:-1 tvg-id="francoecicciocollection.it" tvg-name="Franco e Ciccio Collection" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Franco%20e%20Ciccio%20Collection.png" group-title="Italy - Eagle Collection",Franco e Ciccio Collection
+http://worldtv.homeassistants.app/?v=113553
+#EXTINF:-1 tvg-id="gigiproietticollection.it" tvg-name="Gigi Proietti Collection" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Gigi%20Proietti%20Collection.png" group-title="Italy - Eagle Collection",Gigi Proietti Collection
+http://worldtv.homeassistants.app/?v=113554
+#EXTINF:-1 tvg-id="massimotroisicollection.it" tvg-name="Massimo Troisi Collection" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Massimo%20Troisi%20Collection.png" group-title="Italy - Eagle Collection",Massimo Troisi Collection
+http://worldtv.homeassistants.app/?v=113570
+#EXTINF:-1 tvg-id="ninodangelocollection.it" tvg-name="Nino D'Angelo Collection" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Nino%20D'Angelo%20Collection.png" group-title="Italy - Eagle Collection",Nino D'Angelo Collection
+http://worldtv.homeassistants.app/?v=113573
+#EXTINF:-1 tvg-id="paolovillagiocollection.it" tvg-name="Paolo Villagio Collection" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Paolo%20Villagio%20Collection.png" group-title="Italy - Eagle Collection",Paolo Villagio Collection
+http://worldtv.homeassistants.app/?v=113574
+#EXTINF:-1 tvg-id="elvispresleycollection.it" tvg-name="Elvis Presley Collection" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Elvis%20Presley%20Collection.png" group-title="Italy - Eagle Collection",Elvis Presley Collection
+http://worldtv.homeassistants.app/?v=113550
+#EXTINF:-1 tvg-id="jasonstathamcollection.it" tvg-name="Jason Statham Collection" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Jason%20Statham%20Collection.png" group-title="Italy - Eagle Collection",Jason Statham Collection
+http://worldtv.homeassistants.app/?v=113561
+#EXTINF:-1 tvg-id="jeanrenocollection.it" tvg-name="Jean Reno Collection" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Jean%20Reno%20Collection.png" group-title="Italy - Eagle Collection",Jean Reno Collection
+http://worldtv.homeassistants.app/?v=113562
+#EXTINF:-1 tvg-id="liamneesoncollection.it" tvg-name="Liam Neeson Collection" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Liam%20Neeson%20Collection.png" group-title="Italy - Eagle Collection",Liam Neeson Collection
+http://worldtv.homeassistants.app/?v=113564
+#EXTINF:-1 tvg-id="louisdefunescollection.it" tvg-name="Louis De Funes Collection" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Louis%20De%20Funes%20Collection.png" group-title="Italy - Eagle Collection",Louis De Funes Collection
+http://worldtv.homeassistants.app/?v=113566
+#EXTINF:-1 tvg-id="uclatalanta.it" tvg-name="UCL Atalanta" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/UCL%20Atalanta.png" group-title="Italy - UEFA",UCL Atalanta
+http://worldtv.homeassistants.app/?v=105726
+#EXTINF:-1 tvg-id="uclbologna.it" tvg-name="UCL Bologna" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/UCL%20Bologna.png" group-title="Italy - UEFA",UCL Bologna
+http://worldtv.homeassistants.app/?v=105727
+#EXTINF:-1 tvg-id="uclinter.it" tvg-name="UCL Inter" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/UCL%20Inter.png" group-title="Italy - UEFA",UCL Inter
+http://worldtv.homeassistants.app/?v=105728
+#EXTINF:-1 tvg-id="ucljuventus.it" tvg-name="UCL Juventus" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/UCL%20Juventus.png" group-title="Italy - UEFA",UCL Juventus
+http://worldtv.homeassistants.app/?v=105729
+#EXTINF:-1 tvg-id="uclmilan.it" tvg-name="UCL Milan" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/UCL%20Milan.png" group-title="Italy - UEFA",UCL Milan
+http://worldtv.homeassistants.app/?v=105730
+#EXTINF:-1 tvg-id="ueclfiorentina.it" tvg-name="UECL Fiorentina" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/UECL%20Fiorentina.png" group-title="Italy - UEFA",UECL Fiorentina
+http://worldtv.homeassistants.app/?v=106888
+#EXTINF:-1 tvg-id="uefadirettagol.it" tvg-name="UEFA Diretta Gol" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/UEFA%20Diretta%20Gol.png" group-title="Italy - UEFA",UEFA Diretta Gol
+http://worldtv.homeassistants.app/?v=105725
+#EXTINF:-1 tvg-id="uellazio.it" tvg-name="UEL Lazio" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/UEL%20Lazio.png" group-title="Italy - UEFA",UEL Lazio
+http://worldtv.homeassistants.app/?v=106886
+#EXTINF:-1 tvg-id="uelroma.it" tvg-name="UEL Roma" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/UEL%20Roma.png" group-title="Italy - UEFA",UEL Roma
+http://worldtv.homeassistants.app/?v=106887
+#EXTINF:-1 tvg-id="bluesport1live.it" tvg-name="Blue Sport 1 LIVE" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Blue%20Sport%201%20LIVE.png" group-title="Italy - Blue Sport",Blue Sport 1 LIVE
+http://worldtv.homeassistants.app/?v=106116
+#EXTINF:-1 tvg-id="bluesport2live.it" tvg-name="Blue Sport 2 LIVE" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Blue%20Sport%202%20LIVE.png" group-title="Italy - Blue Sport",Blue Sport 2 LIVE
+http://worldtv.homeassistants.app/?v=106117
+#EXTINF:-1 tvg-id="bluesport3live.it" tvg-name="Blue Sport 3 LIVE" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Blue%20Sport%203%20LIVE.png" group-title="Italy - Blue Sport",Blue Sport 3 LIVE
+http://worldtv.homeassistants.app/?v=106118
+#EXTINF:-1 tvg-id="bluesport4live.it" tvg-name="Blue Sport 4 LIVE" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Blue%20Sport%204%20LIVE.png" group-title="Italy - Blue Sport",Blue Sport 4 LIVE
+http://worldtv.homeassistants.app/?v=106119
+#EXTINF:-1 tvg-id="bluesport5live.it" tvg-name="Blue Sport 5 LIVE" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Blue%20Sport%205%20LIVE.png" group-title="Italy - Blue Sport",Blue Sport 5 LIVE
+http://worldtv.homeassistants.app/?v=106120
+#EXTINF:-1 tvg-id="bluesport6live.it" tvg-name="Blue Sport 6 LIVE" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Blue%20Sport%206%20LIVE.png" group-title="Italy - Blue Sport",Blue Sport 6 LIVE
+http://worldtv.homeassistants.app/?v=106121
+#EXTINF:-1 tvg-id="bluesport7live.it" tvg-name="Blue Sport 7 LIVE" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Blue%20Sport%207%20LIVE.png" group-title="Italy - Blue Sport",Blue Sport 7 LIVE
+http://worldtv.homeassistants.app/?v=106122
+#EXTINF:-1 tvg-id="bluesport8live.it" tvg-name="Blue Sport 8 LIVE" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Blue%20Sport%208%20LIVE.png" group-title="Italy - Blue Sport",Blue Sport 8 LIVE
+http://worldtv.homeassistants.app/?v=106123
+#EXTINF:-1 tvg-id="bluesport9live.it" tvg-name="Blue Sport 9 LIVE" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Blue%20Sport%209%20LIVE.png" group-title="Italy - Blue Sport",Blue Sport 9 LIVE
+http://worldtv.homeassistants.app/?v=106124
+#EXTINF:-1 tvg-id="bluesport1.it" tvg-name="Blue Sport 1" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Blue%20Sport%201.png" group-title="Italy - Blue Sport",Blue Sport 1
+http://worldtv.homeassistants.app/?v=12844
+#EXTINF:-1 tvg-id="bluesport10live.it" tvg-name="Blue Sport 10 LIVE" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Blue%20Sport%2010%20LIVE.png" group-title="Italy - Blue Sport",Blue Sport 10 LIVE
+http://worldtv.homeassistants.app/?v=106125
+#EXTINF:-1 tvg-id="bluesport11live.it" tvg-name="Blue Sport 11 LIVE" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Blue%20Sport%2011%20LIVE.png" group-title="Italy - Blue Sport",Blue Sport 11 LIVE
+http://worldtv.homeassistants.app/?v=106126
+#EXTINF:-1 tvg-id="bluesport12live.it" tvg-name="Blue Sport 12 LIVE" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Blue%20Sport%2012%20LIVE.png" group-title="Italy - Blue Sport",Blue Sport 12 LIVE
+http://worldtv.homeassistants.app/?v=106127
+#EXTINF:-1 tvg-id="bluesport13live.it" tvg-name="Blue Sport 13 LIVE" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Blue%20Sport%2013%20LIVE.png" group-title="Italy - Blue Sport",Blue Sport 13 LIVE
+http://worldtv.homeassistants.app/?v=106128
+#EXTINF:-1 tvg-id="bluesport14live.it" tvg-name="Blue Sport 14 LIVE" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Blue%20Sport%2014%20LIVE.png" group-title="Italy - Blue Sport",Blue Sport 14 LIVE
+http://worldtv.homeassistants.app/?v=106129
+#EXTINF:-1 tvg-id="bluesport15live.it" tvg-name="Blue Sport 15 LIVE" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Blue%20Sport%2015%20LIVE.png" group-title="Italy - Blue Sport",Blue Sport 15 LIVE
+http://worldtv.homeassistants.app/?v=106130
+#EXTINF:-1 tvg-id="bluesport16live.it" tvg-name="Blue Sport 16 LIVE" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Blue%20Sport%2016%20LIVE.png" group-title="Italy - Blue Sport",Blue Sport 16 LIVE
+http://worldtv.homeassistants.app/?v=106131
+#EXTINF:-1 tvg-id="bluesport17live.it" tvg-name="Blue Sport 17 LIVE" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Blue%20Sport%2017%20LIVE.png" group-title="Italy - Blue Sport",Blue Sport 17 LIVE
+http://worldtv.homeassistants.app/?v=106132
+#EXTINF:-1 tvg-id="bluesport2.it" tvg-name="Blue Sport 2" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Blue%20Sport%202.png" group-title="Italy - Blue Sport",Blue Sport 2
+http://worldtv.homeassistants.app/?v=12843
+#EXTINF:-1 tvg-id="bluesportd1live.it" tvg-name="Blue Sport D1 LIVE" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Blue%20Sport%20D1%20LIVE.png" group-title="Italy - Blue Sport",Blue Sport D1 LIVE
+http://worldtv.homeassistants.app/?v=106133
+#EXTINF:-1 tvg-id="bluesportd2live.it" tvg-name="Blue Sport D2 LIVE" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Blue%20Sport%20D2%20LIVE.png" group-title="Italy - Blue Sport",Blue Sport D2 LIVE
+http://worldtv.homeassistants.app/?v=106134
+#EXTINF:-1 tvg-id="bluesportevent1.it" tvg-name="Blue Sport Event 1" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Blue%20Sport%20Event%201.png" group-title="Italy - Blue Sport",Blue Sport Event 1
+http://worldtv.homeassistants.app/?v=37424
+#EXTINF:-1 tvg-id="bluesportevent2.it" tvg-name="Blue Sport Event 2" tvg-logo="https://raw.githubusercontent.com/tomfav/tv-logos/main/output/Blue%20Sport%20Event%202.png" group-title="Italy - Blue Sport",Blue Sport Event 2
+http://worldtv.homeassistants.app/?v=37425
